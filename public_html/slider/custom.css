@@ -1,0 +1,78 @@
+#site-logo{
+margin-top:10px;
+}
+.entry{
+margin-bottom:10px;
+}
+#container-footer{
+background-color:#ffffff;
+}
+#sub-footer{
+background-color:#27793d;
+color:#ffffff;
+}
+.jqueryslidemenu ul li a, .nav-sep, ul.post-filter li a, filter-sep{
+color:#ffffff;
+}
+.jqueryslidemenu ul li a:hover{
+color:#f7cddb;
+}
+ul.post-filter li a:hover{
+color:#f7cddb;
+}
+.jqueryslidemenu ul li ul li a:hover{
+color:#ffffff;
+}
+.jqueryslidemenu ul li ul li a{
+background-color:#ba0202;
+border-bottom-color:#e00000;
+font-size:10px;
+}
+ul.post-filter li a.active, ul.pager-list li.active a, ul.pager-list li a:hover, .content a.more-link:hover{
+background-color:#ba0202;
+}
+.jqueryslidemenu ul li ul li:first-child, .jqueryslidemenu ul li ul li:first-child ul li:first-child{
+border-top-color:#e00000;
+}
+h1.entry-title a, .post-title a, .big-title h1, .sidebar h3.widget-title{
+color:#026873;
+}
+.entry-area, .content{
+color:#6b6b6b;
+}
+.blog-seperator{
+background-color:#ff0a5c;
+}
+#footer h3.widget-title{
+color:#FF847C;
+font-size:12px;
+}
+#footer{
+color:#ffffff;
+font-size:11px;
+}
+#footer a, #sub-footer a{
+color:#ffffff;
+}
+body{
+font-family:Tahoma;
+font-size:14px
+}
+.jqueryslidemenu ul li a{
+font-size:11px;
+}
+ul.pager-list li a, ul.post-filter li a{
+font-size:11px;
+}
+.big-title h1{
+font-size:24px;
+}
+h1{
+font-size:40px;
+}
+h2{
+font-size:20px;
+}
+h3.widget-title{
+font-size:12px;
+}

@@ -1,0 +1,373 @@
+/*
+Theme Name: The Coffee Club 2015
+Theme URI: https://line26.com
+Author: Line26
+Author URI: ttps://line26.com
+Description: 2015 theme for The Coffee Club
+Version: 1.0
+Text Domain: line26
+*/
+
+
+.section-shortcode .col-12 {
+    margin-bottom: 0px;
+}
+
+section.dark {
+    background-color: rgba(156, 111, 73, 0.12);
+    padding: 1em 0 0;
+    margin-bottom: 0;
+    margin-top: 50px;
+    padding-bottom: 30px; 
+}
+
+section.dark .button-alt {
+    /* background-color: rgba(156, 111, 73, 0.12); */
+    /* color: #9c6f49 !important; */
+    /* border-bottom-color: #523923 !important; */
+    font-weight: 600;
+}
+
+section.dark .button-alt:hover {
+    /* background-color: #422e1e; */
+    /* color: #fff !important; */
+    /* border-bottom-color: #f1e0d2 !important; */
+    /* font-weight: 600; */
+}
+
+.home .quick-links {
+    /* color: #fff; */
+}
+
+img.transparent {
+    opacity: 0.5;
+}
+
+@media (min-width: 64em) {
+  .container {
+    max-width: 1000px;
+    padding: 1.25rem;
+    padding-bottom: 40px;
+  }
+}
+
+.col-12 {
+    margin-bottom: 0px;
+}
+
+.col-9 {
+    margin-bottom: 0px;
+}
+
+.col-8 {
+    margin-bottom: 0px;
+}
+
+.col-6 {
+    margin-bottom: 0px;
+}
+
+.col-4 {
+    margin-bottom: 0px;
+}
+
+.col-3 {
+    margin-bottom: 0px;
+}
+
+.col-2 {
+    margin-bottom: 0px;
+}
+
+.col-1 {
+    margin-bottom: 0px;
+}
+
+@media (min-width: 64em) {
+  h2 {
+    padding-top: 12px;
+  }
+}
+
+nav ol, nav ul, ol li, ul li {
+    margin-left: 40px;
+    font-weight: 300;
+    margin-bottom: 5px;
+    letter-spacing: 0px;
+}
+
+ol li:before {
+    margin-right: 5px;
+}
+
+section.CTA {
+    background: url(dist/images/photo_eaglestreet.png) center center no-repeat;
+    background-size: cover;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    color: #fff;
+    margin-bottom:  30px;;
+}
+
+@media (min-width: 64em) {
+section.CTA {
+
+    margin-left: -50%;
+    margin-right: -50%;
+    margin-bottom: 0px;
+    }
+}
+   
+section.CTA a.button {
+    color: #fff;
+    border: 1px solid #fff;
+    padding: 1.25em;
+}
+
+section.CTA h1 {
+    color: #fff;
+    text-transform: uppercase;
+    border-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+section.Franchising {
+}
+
+.col-3.list {
+    border-width: 1px;
+    border-color: #fff;
+    padding: 20px;
+    background: #f3eeea;
+    margin-bottom: -1px;
+    text-align: left;
+    min-height: 285px;
+    width: 25%;
+    margin-right: -1px;
+    margin-right: -1px;
+    float: left;
+    font-size: 12px;
+}
+
+@media (max-width: 64em) {
+  .col-3.list {
+    width: 33%;
+    min-height: 340px;
+  }
+}
+
+@media (max-width: 48em) {
+  .col-3.list {
+    width: 50%;
+    min-height: 300px;
+  }
+}
+
+@media (max-width: 36em) {
+  .col-3.list {
+    width: 100%;
+    min-height: 200px;
+  }
+}
+
+span.list-number {
+    display: block;
+    font-weight: 900;
+    font-size: 40px;
+    font-family: brandon-grotesque;
+    color: #9c6f49;
+    border-radius: 40px;
+    border-width: 2px;
+    width: 80px;
+    height: 80px;
+    vertical-align: middle;
+    text-align: center;
+    line-height: 80px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+.page-header .breadcrumbs {
+    display: none;
+}
+
+.single-menu-item .page-header .heading h1 {
+    color: #000;
+    text-shadow: none;
+    margin-bottom: -50px;
+}
+
+.post-type-archive-menu-item .page-header .heading h1 {
+    color: #000;
+    text-shadow: none;
+}
+
+.post-type-archive-store .page-header .heading h1 {
+    color: #000;
+    text-shadow: none;
+    margin-bottom: -20px;
+    margin-top: 50px;
+}
+
+.infobox__marker {
+    width: 55px;
+    height: 55px;
+    border: 3px solid #fff !important;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FF9D06;
+    color: #fff !important;
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 49px;
+    text-align: center;
+    -webkit-transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+    -moz-transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+    transition: background-color 0.15s ease-in-out, color 0.15s ease-in-out;
+}
+
+a.ssflinks, .main-nav__quicklinks > li > a, .main-header .text-ori-link-color, .main-header .ssf-mobile-nav .text-ori-link-color, .calculator__row__action {
+    color: #000 !important;
+    font-weight: 600 !important;
+    text-decoration: none !important;
+}
+
+
+
+@media (max-width: 64em) {
+  body.post-type-archive-menu-item main article h1, body.tax-menus main article h1 {
+    font-family: brandon-grotesque;
+  }
+}
+
+.button-large {
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 600;
+    width: 100%;
+}
+
+select {
+    border: 2px solid #eee !important;
+}
+
+.country {
+    text-align: center;
+    padding: 20px;
+}
+
+.country:hover {
+    background-color: #9c6f49;
+    color: #fff;
+}
+
+.country a {
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.button-alt.button-filled, .button.button-alt, button.button-alt {
+    width: 100%;
+}
+
+.store-locator-map {
+   /* height: 600px !important;*/
+}
+
+@media (min-width: 32em) {
+  .page-template-storelocator #storeLocator__storeListRow {
+    margin-top: 380px !important;
+  }
+}
+
+@media only screen and (min-width: 64em) {
+  #storeLocator__storeListRow {
+    margin-top: 200px !important;
+  }
+}
+
+.store-state {
+    display: none !important;
+}
+
+.store-zip {
+    display: none !important;
+}
+
+div#info-zip {
+    display: none !important;
+}
+
+div#info-state {
+    display: none !important;
+}
+
+.infobox__row {
+    font-size: 11px;
+}
+
+.infobox__row + .infobox__row {
+    padding-top: 0px;
+}
+
+.infobox__title {
+    font-size: 18px !important;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+div#info-distance {
+    font-size: 12px;
+}
+
+.infobox__subtitle {
+    font-size: 14px !important;
+}
+
+.infobox__row + .infobox__row {
+    padding-top: 5px !important;
+}
+
+a.infobox__row {
+    text-decoration: none !important;
+    text-transform: uppercase;
+    font-size: 14px !important;
+}
+
+.infobox__row + .infobox__row {
+    padding-top: 5px !important;
+    margin-bottom: -5px !important;
+}
+
+.infobox__row a {
+    color: #000 !important;
+}
+
+a.infobox__row.infobox__stv {
+    display: none !important;
+}
+
+div#info-description {
+    display: none !important;
+}
+
+.store-description {
+    display: none !important;
+}
+
+.col-8 > h2:first-of-type{
+
+	padding-top: 0px !important;
+}
+
+@media only screen and (min-width: 64em) {
+.col-8 > h2:first-of-type{
+	margin-top: -7px !important;
+
+}
+}
+
+img{
+	margin-bottom: 1em;
+}

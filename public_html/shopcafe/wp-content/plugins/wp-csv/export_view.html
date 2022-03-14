@@ -1,0 +1,18 @@
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css" />
+<script src="//code.jquery.com/jquery-1.9.1.js"></script>
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js"></script>
+<script type="text/javascript">
+
+jQuery.extend({
+	getParams : function(str) {
+		return (str || document.location.search).replace(/(^\?)/,'').split("&").map(function(n){return n = n.split("="),this[n[0]] = n[1],this}.bind({}))[0];
+	}
+});
+
+jQuery( function( ) {
+
+	jQuery( '#progressbar' ).progressbar( { value: 0 } );
+
+	var retpercent = 0;
+	var progress = 0;
+	var base_url = '

@@ -1,0 +1,948 @@
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Content
+==================================================
+	#Reset & Basics
+	#Basic Styles
+	#Site Styles
+	#Typography
+	#Links
+	#Lists
+	#Images
+	#Buttons
+	#Forms
+	#Misc */
+
+
+/* #Reset & Basics (Inspired by E. Meyers)
+================================================== */
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+		margin: 0;
+		padding: 0;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline; }
+	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+		display: block; }
+	body {
+		line-height: 1; }
+	ol, ul {
+		list-style: none; }
+	blockquote, q {
+		quotes: none; }
+	blockquote:before, blockquote:after,
+	q:before, q:after {
+		content: '';
+		content: none; }
+	table {
+		border-collapse: collapse;
+		border-spacing: 0; }
+
+
+/* #Basic Styles
+================================================== */
+	body {
+		font: 14px/22px Arial, Helvetica, sans-serif;
+		color: #333;
+		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+		-webkit-text-size-adjust: 100%;
+ }
+
+
+/* #Typography
+================================================== */
+	h1, h2, h3, h4, h5, h6 {
+		color: #181818;
+		font-family: 'HelveticaNeueLThin',Verdana,Arial,Helvetica,sans-serif;
+		font-weight: normal; }
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
+	h1 { font-size: 38px; line-height: 48px; margin-bottom: 14px;}
+	h2 { font-size: 28px; line-height: 38px; margin-bottom: 10px; }
+	h3 { font-size: 22px; line-height: 32px; margin-bottom: 8px; }
+	h4 { font-size: 17px; line-height: 27px; margin-bottom: 4px; }
+	h5 { font-size: 13px; line-height: 23px; }
+	h6 { font-size: 14px; line-height: 21px; }
+	.subheader { color: #777; }
+
+	p { margin: 0 0 20px 0; }
+	p img { margin: 0; }
+	p.lead { font-size: 21px; line-height: 27px; color: #777;  }
+
+	em { font-style: italic; }
+	strong { font-weight: bold; color: #333; }
+	small { font-size: 80%; }
+
+/*	Blockquotes  */
+	blockquote, blockquote p { font-size: 17px; line-height: 24px; color: #777; font-style: italic; }
+	blockquote { margin: 0 0 20px; padding: 9px 20px 0 19px; border-left: 1px solid #ddd; }
+	blockquote cite { display: block; font-size: 12px; color: #555; }
+	blockquote cite:before { content: "\2014 \0020"; }
+	blockquote cite a, blockquote cite a:visited, blockquote cite a:visited { color: #555; }
+
+	hr { border: solid #ddd; border-width: 1px 0 0; clear: both; margin: 0 0 10px 0; height: 0; }
+
+
+/* #Links
+================================================== */
+	a, a:visited {   text-decoration: none; outline: 0; }
+	a:hover, a:focus { color: #1b7a5a; }
+	p a, p a:visited { line-height: inherit; }
+
+
+/* #Lists
+================================================== */
+	ul, ol { margin-bottom: 20px; }
+	ul { list-style: none outside; }
+	ol { list-style: decimal; }
+	ol, ul.square, ul.circle, ul.disc { margin-left: 30px; }
+	ul.square { list-style: square outside; }
+	ul.circle { list-style: circle outside; }
+	ul.disc { list-style: disc outside; }
+	ul ul, ul ol,
+	ol ol, ol ul { margin: 4px 0 5px 30px; font-size: 90%;  }
+	ul ul li, ul ol li,
+	ol ol li, ol ul li { margin-bottom: 6px; }
+	li { line-height: 18px; margin-bottom: 12px; }
+	ul.large li { line-height: 21px; }
+	li p { line-height: 21px; }
+
+/* #Images
+================================================== */
+
+	img.scale-with-grid {
+		max-width: 100%;
+		height: auto; }
+
+
+/* #Buttons
+================================================== */
+
+
+
+/* #Forms
+================================================== */
+
+	form {
+		margin-bottom: 20px; }
+	fieldset {
+		margin-bottom: 20px; }
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	textarea,
+	select {
+		border: 1px solid #ccc;
+		padding: 6px 4px;
+		outline: none;
+		-moz-border-radius: 2px;
+		-webkit-border-radius: 2px;
+		border-radius: 2px;
+		font: 13px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		color: #777;
+		margin: 0;
+		width: 210px;
+		max-width: 100%;
+		display: block;
+		margin-bottom: 20px;
+		background: #fff; }
+	select {
+		padding: 0; }
+	input[type="text"]:focus,
+	input[type="password"]:focus,
+	input[type="email"]:focus,
+	textarea:focus {
+		border: 1px solid #aaa;
+ 		color: #444;
+ 		-moz-box-shadow: 0 0 3px rgba(0,0,0,.2);
+		-webkit-box-shadow: 0 0 3px rgba(0,0,0,.2);
+		box-shadow:  0 0 3px rgba(0,0,0,.2); }
+	textarea {
+		min-height: 60px; }
+	label,
+	legend {
+		display: block;
+		font-weight: bold;
+		font-size: 13px;  }
+	select {
+		width: 220px; }
+	input[type="checkbox"] {
+		display: inline; }
+	label span,
+	legend span {
+		font-weight: normal;
+		font-size: 13px;
+		color: #444; }
+
+/* #Misc
+================================================== */
+	.remove-bottom { margin-bottom: 0 !important; }
+	.half-bottom { margin-bottom: 10px !important; }
+	.add-bottom { margin-bottom: 20px !important; }
+
+
+/* #btn.css
+================================================== */
+.button-big, .button-small, .button-small-theme {
+    color: #fff !important;
+    word-spacing: 0.25em;
+	font: 22px/26px Arial, Helvetica, sans-serif;
+    text-transform: none !important;
+    line-height: 22px;
+    padding: 7px 7px 7px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 18px;
+    text-decoration: none;
+}
+.slidesDescription .button-big {
+     -webkit-box-shadow: 1px 1px 1px rgba(0,0,0, 0.35);
+    -moz-box-shadow: 1px 1px 1px rgba(0,0,0, 0.35);
+    box-shadow: 1px 1px 1px rgba(0,0,0, 0.35);
+    text-shadow: -1px -1px 1px rgba(0,0,0, 0.25);
+}
+.button-small, .button-small-theme {
+    padding: 6px 12px 5px;
+    font-size: 12px;
+    color: #fff !important;
+    text-shadow: none;
+}
+.button-big {
+     font-size: 14px;
+}
+.button-big:hover, .button-small:hover, .button-small-theme:hover {
+    color: rgba(255,255,255, 0.65);
+    text-decoration: none;
+    -webkit-box-shadow:inset 0 10px 20px rgba(255,255,255, 0.10);
+    -moz-box-shadow: inset 0 10px 20px rgba(255,255,255, 0.10);
+    box-shadow: inset 0 10px 20px rgba(255,255,255, 0.10);
+}
+.button-big:active, .button-small:active, .button-small-theme:active {
+    -webkit-box-shadow: inset 0 2px 2px rgba(0,0,0, 0.3), inset 0 10px 20px rgba(0,0,0, 0.08);
+    -moz-box-shadow: inset 0 2px 2px rgba(0,0,0, 0.3), inset 0 10px 20px rgba(0,0,0, 0.08);
+    box-shadow: inset 0 2px 2px rgba(0,0,0, 0.3), inset 0 10px 20px rgba(0,0,0, 0.08);
+}
+.rounded3 {
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
+.rounded5 {
+	-webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.rounded10 {
+	-webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+}
+.rounded99 {
+	-webkit-border-radius: 99px;
+    -moz-border-radius: 99px;
+    border-radius: 99px;
+    padding: 12px 20px;
+}
+.salmon {
+    background: #d5383c;
+ 
+}
+.purple {
+    background: #6b63cf;
+ 
+}
+.orange {
+	background: #f76b16;
+       
+}
+.blue {
+	background: #3b5998;
+      
+}
+.lightblue {
+	background: #5aa3ac;
+      
+}
+.red {
+	background: #d74340;
+       
+}
+.green {
+	background: #87ac5a;
+ 
+}
+.teal {
+	background: #26a77b;
+      
+}
+
+.grey {
+	background: #5e5e5e;
+    
+}
+.sand {
+	background: #c78942;
+      
+}
+.taupe {
+	background: #a58d72;
+      
+}
+.brown {
+        background: #74614f;
+     
+}
+.peach {
+	background: #d27341;
+      
+}
+
+/* #flexslider.css
+================================================== */
+/*
+ * jQuery FlexSlider v2.0
+ * http://www.woothemes.com/flexslider/
+ *
+ * Copyright 2012 WooThemes
+ * Free to use under the GPLv2 license.
+ * http://www.gnu.org/licenses/gpl-2.0.html
+ *
+ * Contributing author: Tyler Smith (@mbmufffin)
+ */
+
+ 
+/* Browser Resets */
+.flex-container a:active,
+.flexslider a:active,
+.flex-container a:focus,
+.flexslider a:focus  {outline: none;}
+.slides,
+.flex-control-nav,
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+
+
+/* FlexSlider Necessary Styles
+*********************************/ 
+.flexslider {margin: 0; padding: 0;}
+.flexslider .slides > li {display: none; -webkit-backface-visibility: hidden;} /* Hide the slides before the JS is loaded. Avoids image jumping */
+.flexslider .slides img {width: 100%; display: block;}
+.flex-pauseplay span {text-transform: capitalize;}
+
+/* Clearfix for the .slides element */
+.slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;} 
+html[xmlns] .slides {display: block;} 
+* html .slides {height: 1%;}
+
+/* No JavaScript Fallback */
+/* If you are not using another script, such as Modernizr, make sure you
+ * include js that eliminates this class on page load */
+.no-js .slides > li:first-child {display: block;}
+
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {background: #fff;  position: relative; zoom: 1;}
+.flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides {zoom: 1;}
+
+.carousel li {margin-right: 5px}
+
+
+/* Direction Nav */
+.flex-direction-nav {*height: 0;}
+.flex-direction-nav a {width: 30px; height: 30px; margin: -20px 0 0; display: block; background: url(images/bg_direction_nav.png) no-repeat 0 0; position: absolute; top: 50%; z-index: 10; cursor: pointer; text-indent: -9999px; opacity: 0; -webkit-transition: all .3s ease;}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: -36px; }
+.flex-direction-nav .flex-prev {left: -36px;}
+.flexslider:hover .flex-next {opacity: 0.8; right: 5px;}
+.flexslider:hover .flex-prev {opacity: 0.8; left: 5px;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1;}
+.flex-direction-nav .flex-disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}
+
+/* Control Nav */
+.flex-control-nav {width: 100%; position: absolute; bottom: -40px; text-align: center;}
+.flex-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-paging li a {width: 11px; height: 11px; display: block; background: #666; background: rgba(0,0,0,0.5); cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; box-shadow: inset 0 0 3px rgba(0,0,0,0.3);}
+.flex-control-paging li a:hover { background: #333; background: rgba(0,0,0,0.7); }
+.flex-control-paging li a.flex-active { background: #000; background: rgba(0,0,0,0.9); cursor: default; }
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
+
+@media screen and (max-width: 860px) {
+  .flex-direction-nav .flex-prev {opacity: 1; left: 0;}
+  .flex-direction-nav .flex-next {opacity: 1; right: 0;}
+}
+
+/* #prettyPhoto.css
+================================================== */
+div.pp_default .pp_top,div.pp_default .pp_top .pp_middle,div.pp_default .pp_top .pp_left,div.pp_default .pp_top .pp_right,div.pp_default .pp_bottom,div.pp_default .pp_bottom .pp_left,div.pp_default .pp_bottom .pp_middle,div.pp_default .pp_bottom .pp_right{height:13px}
+div.pp_default .pp_top .pp_left{background:url(../images/prettyPhoto/default/sprite.png) -78px -93px no-repeat}
+div.pp_default .pp_top .pp_middle{background:url(../images/prettyPhoto/default/sprite_x.png) top left repeat-x}
+div.pp_default .pp_top .pp_right{background:url(../images/prettyPhoto/default/sprite.png) -112px -93px no-repeat}
+div.pp_default .pp_content .ppt{color:#f8f8f8}
+div.pp_default .pp_content_container .pp_left{background:url(../images/prettyPhoto/default/sprite_y.png) -7px 0 repeat-y;padding-left:13px}
+div.pp_default .pp_content_container .pp_right{background:url(../images/prettyPhoto/default/sprite_y.png) top right repeat-y;padding-right:13px}
+div.pp_default .pp_next:hover{background:url(../images/prettyPhoto/default/sprite_next.png) center right no-repeat;cursor:pointer}
+div.pp_default .pp_previous:hover{background:url(../images/prettyPhoto/default/sprite_prev.png) center left no-repeat;cursor:pointer}
+div.pp_default .pp_expand{background:url(../images/prettyPhoto/default/sprite.png) 0 -29px no-repeat;cursor:pointer;width:28px;height:28px}
+div.pp_default .pp_expand:hover{background:url(../images/prettyPhoto/default/sprite.png) 0 -56px no-repeat;cursor:pointer}
+div.pp_default .pp_contract{background:url(../images/prettyPhoto/default/sprite.png) 0 -84px no-repeat;cursor:pointer;width:28px;height:28px}
+div.pp_default .pp_contract:hover{background:url(../images/prettyPhoto/default/sprite.png) 0 -113px no-repeat;cursor:pointer}
+div.pp_default .pp_close{width:30px;height:30px;background:url(../images/prettyPhoto/default/sprite.png) 2px 1px no-repeat;cursor:pointer}
+div.pp_default .pp_gallery ul li a{background:url(../images/prettyPhoto/default/default_thumb.png) center center #f8f8f8;border:1px solid #aaa}
+div.pp_default .pp_social{margin-top:7px}
+div.pp_default .pp_gallery a.pp_arrow_previous,div.pp_default .pp_gallery a.pp_arrow_next{position:static;left:auto}
+div.pp_default .pp_nav .pp_play,div.pp_default .pp_nav .pp_pause{background:url(../images/prettyPhoto/default/sprite.png) -51px 1px no-repeat;height:30px;width:30px}
+div.pp_default .pp_nav .pp_pause{background-position:-51px -29px}
+div.pp_default a.pp_arrow_previous,div.pp_default a.pp_arrow_next{background:url(../images/prettyPhoto/default/sprite.png) -31px -3px no-repeat;height:20px;width:20px;margin:4px 0 0}
+div.pp_default a.pp_arrow_next{left:52px;background-position:-82px -3px}
+div.pp_default .pp_content_container .pp_details{margin-top:5px}
+div.pp_default .pp_nav{clear:none;height:30px;width:110px;position:relative}
+div.pp_default .pp_nav .currentTextHolder{font-family:Georgia;font-style:italic;color:#999;font-size:11px;left:75px;line-height:25px;position:absolute;top:2px;margin:0;padding:0 0 0 10px}
+div.pp_default .pp_close:hover,div.pp_default .pp_nav .pp_play:hover,div.pp_default .pp_nav .pp_pause:hover,div.pp_default .pp_arrow_next:hover,div.pp_default .pp_arrow_previous:hover{opacity:0.7}
+div.pp_default .pp_description{font-size:11px;font-weight:700;line-height:14px;margin:5px 50px 5px 0}
+div.pp_default .pp_bottom .pp_left{background:url(../images/prettyPhoto/default/sprite.png) -78px -127px no-repeat}
+div.pp_default .pp_bottom .pp_middle{background:url(../images/prettyPhoto/default/sprite_x.png) bottom left repeat-x}
+div.pp_default .pp_bottom .pp_right{background:url(../images/prettyPhoto/default/sprite.png) -112px -127px no-repeat}
+div.pp_default .pp_loaderIcon{background:url(../images/prettyPhoto/default/loader.gif) center center no-repeat}
+div.light_rounded .pp_top .pp_left{background:url(../images/prettyPhoto/light_rounded/sprite.png) -88px -53px no-repeat}
+div.light_rounded .pp_top .pp_right{background:url(../images/prettyPhoto/light_rounded/sprite.png) -110px -53px no-repeat}
+div.light_rounded .pp_next:hover{background:url(../images/prettyPhoto/light_rounded/btnNext.png) center right no-repeat;cursor:pointer}
+div.light_rounded .pp_previous:hover{background:url(../images/prettyPhoto/light_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.light_rounded .pp_expand{background:url(../images/prettyPhoto/light_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.light_rounded .pp_expand:hover{background:url(../images/prettyPhoto/light_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.light_rounded .pp_contract{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.light_rounded .pp_contract:hover{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.light_rounded .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/light_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.light_rounded .pp_nav .pp_play{background:url(../images/prettyPhoto/light_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.light_rounded .pp_nav .pp_pause{background:url(../images/prettyPhoto/light_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.light_rounded .pp_arrow_previous{background:url(../images/prettyPhoto/light_rounded/sprite.png) 0 -71px no-repeat}
+div.light_rounded .pp_arrow_next{background:url(../images/prettyPhoto/light_rounded/sprite.png) -22px -71px no-repeat}
+div.light_rounded .pp_bottom .pp_left{background:url(../images/prettyPhoto/light_rounded/sprite.png) -88px -80px no-repeat}
+div.light_rounded .pp_bottom .pp_right{background:url(../images/prettyPhoto/light_rounded/sprite.png) -110px -80px no-repeat}
+div.dark_rounded .pp_top .pp_left{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -53px no-repeat}
+div.dark_rounded .pp_top .pp_right{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -110px -53px no-repeat}
+div.dark_rounded .pp_content_container .pp_left{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat-y}
+div.dark_rounded .pp_content_container .pp_right{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top right repeat-y}
+div.dark_rounded .pp_next:hover{background:url(../images/prettyPhoto/dark_rounded/btnNext.png) center right no-repeat;cursor:pointer}
+div.dark_rounded .pp_previous:hover{background:url(../images/prettyPhoto/dark_rounded/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.dark_rounded .pp_expand{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.dark_rounded .pp_expand:hover{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.dark_rounded .pp_contract{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.dark_rounded .pp_contract:hover{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.dark_rounded .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/dark_rounded/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.dark_rounded .pp_description{margin-right:85px;color:#fff}
+div.dark_rounded .pp_nav .pp_play{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.dark_rounded .pp_nav .pp_pause{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.dark_rounded .pp_arrow_previous{background:url(../images/prettyPhoto/dark_rounded/sprite.png) 0 -71px no-repeat}
+div.dark_rounded .pp_arrow_next{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -22px -71px no-repeat}
+div.dark_rounded .pp_bottom .pp_left{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -88px -80px no-repeat}
+div.dark_rounded .pp_bottom .pp_right{background:url(../images/prettyPhoto/dark_rounded/sprite.png) -110px -80px no-repeat}
+div.dark_rounded .pp_loaderIcon{background:url(../images/prettyPhoto/dark_rounded/loader.gif) center center no-repeat}
+div.dark_square .pp_left,div.dark_square .pp_middle,div.dark_square .pp_right,div.dark_square .pp_content{background:#000}
+div.dark_square .pp_description{color:#fff;margin:0 85px 0 0}
+div.dark_square .pp_loaderIcon{background:url(../images/prettyPhoto/dark_square/loader.gif) center center no-repeat}
+div.dark_square .pp_expand{background:url(../images/prettyPhoto/dark_square/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.dark_square .pp_expand:hover{background:url(../images/prettyPhoto/dark_square/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.dark_square .pp_contract{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.dark_square .pp_contract:hover{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.dark_square .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/dark_square/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.dark_square .pp_nav{clear:none}
+div.dark_square .pp_nav .pp_play{background:url(../images/prettyPhoto/dark_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.dark_square .pp_nav .pp_pause{background:url(../images/prettyPhoto/dark_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.dark_square .pp_arrow_previous{background:url(../images/prettyPhoto/dark_square/sprite.png) 0 -71px no-repeat}
+div.dark_square .pp_arrow_next{background:url(../images/prettyPhoto/dark_square/sprite.png) -22px -71px no-repeat}
+div.dark_square .pp_next:hover{background:url(../images/prettyPhoto/dark_square/btnNext.png) center right no-repeat;cursor:pointer}
+div.dark_square .pp_previous:hover{background:url(../images/prettyPhoto/dark_square/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.light_square .pp_expand{background:url(../images/prettyPhoto/light_square/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.light_square .pp_expand:hover{background:url(../images/prettyPhoto/light_square/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.light_square .pp_contract{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.light_square .pp_contract:hover{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.light_square .pp_close{width:75px;height:22px;background:url(../images/prettyPhoto/light_square/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.light_square .pp_nav .pp_play{background:url(../images/prettyPhoto/light_square/sprite.png) -1px -100px no-repeat;height:15px;width:14px}
+div.light_square .pp_nav .pp_pause{background:url(../images/prettyPhoto/light_square/sprite.png) -24px -100px no-repeat;height:15px;width:14px}
+div.light_square .pp_arrow_previous{background:url(../images/prettyPhoto/light_square/sprite.png) 0 -71px no-repeat}
+div.light_square .pp_arrow_next{background:url(../images/prettyPhoto/light_square/sprite.png) -22px -71px no-repeat}
+div.light_square .pp_next:hover{background:url(../images/prettyPhoto/light_square/btnNext.png) center right no-repeat;cursor:pointer}
+div.light_square .pp_previous:hover{background:url(../images/prettyPhoto/light_square/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.facebook .pp_top .pp_left{background:url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat}
+div.facebook .pp_top .pp_middle{background:url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x}
+div.facebook .pp_top .pp_right{background:url(../images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeat}
+div.facebook .pp_content_container .pp_left{background:url(../images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-y}
+div.facebook .pp_content_container .pp_right{background:url(../images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-y}
+div.facebook .pp_expand{background:url(../images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;cursor:pointer}
+div.facebook .pp_expand:hover{background:url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;cursor:pointer}
+div.facebook .pp_contract{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;cursor:pointer}
+div.facebook .pp_contract:hover{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;cursor:pointer}
+div.facebook .pp_close{width:22px;height:22px;background:url(../images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;cursor:pointer}
+div.facebook .pp_description{margin:0 37px 0 0}
+div.facebook .pp_loaderIcon{background:url(../images/prettyPhoto/facebook/loader.gif) center center no-repeat}
+div.facebook .pp_arrow_previous{background:url(../images/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_arrow_previous.disabled{background-position:0 -96px;cursor:default}
+div.facebook .pp_arrow_next{background:url(../images/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;height:22px;margin-top:0;width:22px}
+div.facebook .pp_arrow_next.disabled{background-position:-32px -96px;cursor:default}
+div.facebook .pp_nav{margin-top:0}
+div.facebook .pp_nav p{font-size:15px;padding:0 3px 0 4px}
+div.facebook .pp_nav .pp_play{background:url(../images/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_nav .pp_pause{background:url(../images/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;height:22px;width:22px}
+div.facebook .pp_next:hover{background:url(../images/prettyPhoto/facebook/btnNext.png) center right no-repeat;cursor:pointer}
+div.facebook .pp_previous:hover{background:url(../images/prettyPhoto/facebook/btnPrevious.png) center left no-repeat;cursor:pointer}
+div.facebook .pp_bottom .pp_left{background:url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat}
+div.facebook .pp_bottom .pp_middle{background:url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x}
+div.facebook .pp_bottom .pp_right{background:url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat}
+div.pp_pic_holder a:focus{outline:none}
+div.pp_overlay{background:#000;display:none;left:0;position:absolute;top:0;width:100%;z-index:9500}
+div.pp_pic_holder{display:none;position:absolute;width:100px;z-index:10000}
+.pp_content{height:40px;min-width:40px}
+* html .pp_content{width:40px}
+.pp_content_container{position:relative;text-align:left;width:100%}
+.pp_content_container .pp_left{padding-left:20px}
+.pp_content_container .pp_right{padding-right:20px}
+.pp_content_container .pp_details{float:left;margin:10px 0 2px}
+.pp_description{display:none;margin:0}
+.pp_social{float:left;margin:0}
+.pp_social .facebook{float:left;margin-left:5px;width:55px;overflow:hidden}
+.pp_social .twitter{float:left}
+.pp_nav{clear:right;float:left;margin:3px 10px 0 0}
+.pp_nav p{float:left;white-space:nowrap;margin:2px 4px}
+.pp_nav .pp_play,.pp_nav .pp_pause{float:left;margin-right:4px;text-indent:-10000px}
+a.pp_arrow_previous,a.pp_arrow_next{display:block;float:left;height:15px;margin-top:3px;overflow:hidden;text-indent:-10000px;width:14px}
+.pp_hoverContainer{position:absolute;top:0;width:100%;z-index:2000}
+.pp_gallery{display:none;left:50%;margin-top:-50px;position:absolute;z-index:10000}
+.pp_gallery div{float:left;overflow:hidden;position:relative}
+.pp_gallery ul{float:left;height:35px;position:relative;white-space:nowrap;margin:0 0 0 5px;padding:0}
+.pp_gallery ul a{border:1px rgba(0,0,0,0.5) solid;display:block;float:left;height:33px;overflow:hidden}
+.pp_gallery ul a img{border:0}
+.pp_gallery li{display:block;float:left;margin:0 5px 0 0;padding:0}
+.pp_gallery li.default a{background:url(../images/prettyPhoto/facebook/default_thumbnail.gif) 0 0 no-repeat;display:block;height:33px;width:50px}
+.pp_gallery .pp_arrow_previous,.pp_gallery .pp_arrow_next{margin-top:7px!important}
+a.pp_next{background:url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:right;height:100%;text-indent:-10000px;width:49%}
+a.pp_previous{background:url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;display:block;float:left;height:100%;text-indent:-10000px;width:49%}
+a.pp_expand,a.pp_contract{cursor:pointer;display:none;height:20px;position:absolute;right:30px;text-indent:-10000px;top:10px;width:20px;z-index:20000}
+a.pp_close{position:absolute;right:0;top:0;display:block;line-height:22px;text-indent:-10000px}
+.pp_loaderIcon{display:block;height:24px;left:50%;position:absolute;top:50%;width:24px;margin:-12px 0 0 -12px}
+#pp_full_res{line-height:1!important}
+#pp_full_res .pp_inline{text-align:left}
+#pp_full_res .pp_inline p{margin:0 0 15px}
+div.ppt{color:#fff;display:none;font-size:17px;z-index:9999;margin:0 0 5px 15px}
+div.pp_default .pp_content,div.light_rounded .pp_content{background-color:#fff}
+div.pp_default #pp_full_res .pp_inline,div.light_rounded .pp_content .ppt,div.light_rounded #pp_full_res .pp_inline,div.light_square .pp_content .ppt,div.light_square #pp_full_res .pp_inline,div.facebook .pp_content .ppt,div.facebook #pp_full_res .pp_inline{color:#000}
+div.pp_default .pp_gallery ul li a:hover,div.pp_default .pp_gallery ul li.selected a,.pp_gallery ul a:hover,.pp_gallery li.selected a{border-color:#fff}
+div.pp_default .pp_details,div.light_rounded .pp_details,div.dark_rounded .pp_details,div.dark_square .pp_details,div.light_square .pp_details,div.facebook .pp_details{position:relative}
+div.light_rounded .pp_top .pp_middle,div.light_rounded .pp_content_container .pp_left,div.light_rounded .pp_content_container .pp_right,div.light_rounded .pp_bottom .pp_middle,div.light_square .pp_left,div.light_square .pp_middle,div.light_square .pp_right,div.light_square .pp_content,div.facebook .pp_content{background:#fff}
+div.light_rounded .pp_description,div.light_square .pp_description{margin-right:85px}
+div.light_rounded .pp_gallery a.pp_arrow_previous,div.light_rounded .pp_gallery a.pp_arrow_next,div.dark_rounded .pp_gallery a.pp_arrow_previous,div.dark_rounded .pp_gallery a.pp_arrow_next,div.dark_square .pp_gallery a.pp_arrow_previous,div.dark_square .pp_gallery a.pp_arrow_next,div.light_square .pp_gallery a.pp_arrow_previous,div.light_square .pp_gallery a.pp_arrow_next{margin-top:12px!important}
+div.light_rounded .pp_arrow_previous.disabled,div.dark_rounded .pp_arrow_previous.disabled,div.dark_square .pp_arrow_previous.disabled,div.light_square .pp_arrow_previous.disabled{background-position:0 -87px;cursor:default}
+div.light_rounded .pp_arrow_next.disabled,div.dark_rounded .pp_arrow_next.disabled,div.dark_square .pp_arrow_next.disabled,div.light_square .pp_arrow_next.disabled{background-position:-22px -87px;cursor:default}
+div.light_rounded .pp_loaderIcon,div.light_square .pp_loaderIcon{background:url(../images/prettyPhoto/light_rounded/loader.gif) center center no-repeat}
+div.dark_rounded .pp_top .pp_middle,div.dark_rounded .pp_content,div.dark_rounded .pp_bottom .pp_middle{background:url(../images/prettyPhoto/dark_rounded/contentPattern.png) top left repeat}
+div.dark_rounded .currentTextHolder,div.dark_square .currentTextHolder{color:#c4c4c4}
+div.dark_rounded #pp_full_res .pp_inline,div.dark_square #pp_full_res .pp_inline{color:#fff}
+.pp_top,.pp_bottom{height:20px;position:relative}
+* html .pp_top,* html .pp_bottom{padding:0 20px}
+.pp_top .pp_left,.pp_bottom .pp_left{height:20px;left:0;position:absolute;width:20px}
+.pp_top .pp_middle,.pp_bottom .pp_middle{height:20px;left:20px;position:absolute;right:20px}
+* html .pp_top .pp_middle,* html .pp_bottom .pp_middle{left:0;position:static}
+.pp_top .pp_right,.pp_bottom .pp_right{height:20px;left:auto;position:absolute;right:0;top:0;width:20px}
+.pp_fade,.pp_gallery li.default a img{display:none}
+
+/* #skeleton.css
+================================================== */
+/*
+* Skeleton V1.2
+* Copyright 2011, Dave Gamache
+* www.getskeleton.com
+* Free to use under the MIT license.
+* http://www.opensource.org/licenses/mit-license.php
+* 6/20/2012
+*/
+
+
+/* Table of Contents
+==================================================
+    #Base 960 Grid
+    #Tablet (Portrait)
+    #Mobile (Portrait)
+    #Mobile (Landscape)
+    #Clearing */
+
+
+
+/* #Base 960 Grid
+================================================== */
+
+    .container                                  { position: relative; width: 960px; margin: 0 auto; padding: 0; }
+    .container .column,
+    .container .columns                         { float: left; display: inline; margin-left: 10px; margin-right: 10px; }
+    .row                                        { margin-bottom: 20px; }
+
+    /* Nested Column Classes */
+    .column.alpha, .columns.alpha               { margin-left: 0; }
+    .column.omega, .columns.omega               { margin-right: 0; }
+
+    /* Base Grid */
+    .container .one.column,
+    .container .one.columns                     { width: 40px;  }
+    .container .two.columns                     { width: 100px; }
+    .container .three.columns                   { width: 160px; }
+    .container .four.columns                    { width: 220px; }
+    .container .five.columns                    { width: 280px; }
+    .container .six.columns                     { width: 340px; }
+    .container .seven.columns                   { width: 400px; }
+    .container .eight.columns                   { width: 460px; }
+    .container .nine.columns                    { width: 520px; }
+    .container .ten.columns                     { width: 580px; }
+    .container .eleven.columns                  { width: 640px; }
+    .container .twelve.columns                  { width: 700px; }
+    .container .thirteen.columns                { width: 760px; }
+    .container .fourteen.columns                { width: 820px; }
+    .container .fifteen.columns                 { width: 880px; }
+    .container .sixteen.columns                 { width: 940px; }
+
+    .container .one-third.column                { width: 300px; }
+    .container .two-thirds.column               { width: 620px; }
+    .widget.one-third.column							{ width: 300px; }
+
+    /* Offsets */
+    .container .offset-by-one                   { padding-left: 60px;  }
+    .container .offset-by-two                   { padding-left: 120px; }
+    .container .offset-by-three                 { padding-left: 180px; }
+    .container .offset-by-four                  { padding-left: 240px; }
+    .container .offset-by-five                  { padding-left: 300px; }
+    .container .offset-by-six                   { padding-left: 360px; }
+    .container .offset-by-seven                 { padding-left: 420px; }
+    .container .offset-by-eight                 { padding-left: 480px; }
+    .container .offset-by-nine                  { padding-left: 540px; }
+    .container .offset-by-ten                   { padding-left: 600px; }
+    .container .offset-by-eleven                { padding-left: 660px; }
+    .container .offset-by-twelve                { padding-left: 720px; }
+    .container .offset-by-thirteen              { padding-left: 780px; }
+    .container .offset-by-fourteen              { padding-left: 840px; }
+    .container .offset-by-fifteen               { padding-left: 900px; }
+
+
+
+/* #Tablet (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 768px */
+
+    @media only screen and (min-width: 768px) and (max-width: 959px) {
+        .container                                  { width: 768px; }
+        .container .column,
+        .container .columns                         { margin-left: 10px; margin-right: 10px;  }
+        .column.alpha, .columns.alpha               { margin-left: 0; margin-right: 10px; }
+        .column.omega, .columns.omega               { margin-right: 0; margin-left: 10px; }
+        .alpha.omega                                { margin-left: 0; margin-right: 0; }
+
+        .container .one.column,
+        .container .one.columns                     { width: 28px; }
+        .container .two.columns                     { width: 76px; }
+        .container .three.columns                   { width: 124px; }
+        .container .four.columns                    { width: 172px; }
+        .container .five.columns                    { width: 220px; }
+        .container .six.columns                     { width: 268px; }
+        .container .seven.columns                   { width: 316px; }
+        .container .eight.columns                   { width: 364px; }
+        .container .nine.columns                    { width: 412px; }
+        .container .ten.columns                     { width: 460px; }
+        .container .eleven.columns                  { width: 508px; }
+        .container .twelve.columns                  { width: 556px; }
+        .container .thirteen.columns                { width: 604px; }
+        .container .fourteen.columns                { width: 652px; }
+        .container .fifteen.columns                 { width: 700px; }
+        .container .sixteen.columns                 { width: 748px; }
+
+        .container .one-third.column                { width: 236px; }
+        .container .two-thirds.column               { width: 492px; }
+
+        /* Offsets */
+        .container .offset-by-one                   { padding-left: 48px; }
+        .container .offset-by-two                   { padding-left: 96px; }
+        .container .offset-by-three                 { padding-left: 144px; }
+        .container .offset-by-four                  { padding-left: 192px; }
+        .container .offset-by-five                  { padding-left: 240px; }
+        .container .offset-by-six                   { padding-left: 288px; }
+        .container .offset-by-seven                 { padding-left: 336px; }
+        .container .offset-by-eight                 { padding-left: 384px; }
+        .container .offset-by-nine                  { padding-left: 432px; }
+        .container .offset-by-ten                   { padding-left: 480px; }
+        .container .offset-by-eleven                { padding-left: 528px; }
+        .container .offset-by-twelve                { padding-left: 576px; }
+        .container .offset-by-thirteen              { padding-left: 624px; }
+        .container .offset-by-fourteen              { padding-left: 672px; }
+        .container .offset-by-fifteen               { padding-left: 720px; }
+    }
+
+
+/*  #Mobile (Portrait)
+================================================== */
+
+    /* Note: Design for a width of 320px */
+
+    @media only screen and (max-width: 767px) {
+        .container { width: 300px; }
+        .container .columns,
+        .container .column { margin: 0; }
+
+        .container .one.column,
+        .container .one.columns,
+        .container .two.columns,
+        .container .three.columns,
+        .container .four.columns,
+        .container .five.columns,
+        .container .six.columns,
+        .container .seven.columns,
+        .container .eight.columns,
+        .container .nine.columns,
+        .container .ten.columns,
+        .container .eleven.columns,
+        .container .twelve.columns,
+        .container .thirteen.columns,
+        .container .fourteen.columns,
+        .container .fifteen.columns,
+        .container .sixteen.columns,
+        .container .one-third.column,
+        .container .two-thirds.column  { width: 300px; }
+
+        /* Offsets */
+        .container .offset-by-one,
+        .container .offset-by-two,
+        .container .offset-by-three,
+        .container .offset-by-four,
+        .container .offset-by-five,
+        .container .offset-by-six,
+        .container .offset-by-seven,
+        .container .offset-by-eight,
+        .container .offset-by-nine,
+        .container .offset-by-ten,
+        .container .offset-by-eleven,
+        .container .offset-by-twelve,
+        .container .offset-by-thirteen,
+        .container .offset-by-fourteen,
+        .container .offset-by-fifteen { padding-left: 0; }
+
+    }
+
+
+/* #Mobile (Landscape)
+================================================== */
+
+    /* Note: Design for a width of 480px */
+
+    @media only screen and (min-width: 480px) and (max-width: 767px) {
+        .container { width: 420px; }
+        .container .columns,
+        .container .column { margin: 0; }
+
+        .container .one.column,
+        .container .one.columns,
+        .container .two.columns,
+        .container .three.columns,
+        .container .four.columns,
+        .container .five.columns,
+        .container .six.columns,
+        .container .seven.columns,
+        .container .eight.columns,
+        .container .nine.columns,
+        .container .ten.columns,
+        .container .eleven.columns,
+        .container .twelve.columns,
+        .container .thirteen.columns,
+        .container .fourteen.columns,
+        .container .fifteen.columns,
+        .container .sixteen.columns,
+        .container .one-third.column,
+        .container .two-thirds.column { width: 420px; }
+    }
+
+
+/* #Clearing
+================================================== */
+
+    /* Self Clearing Goodness */
+    .container:after { content: "\0020"; display: block; height: 0; clear: both; visibility: hidden; }
+
+    /* Use clearfix class on parent to clear nested columns,
+    or wrap each row of columns in a <div class="row"> */
+    .clearfix:before,
+    .clearfix:after,
+    .row:before,
+    .row:after {
+      content: '\0020';
+      display: block;
+      overflow: hidden;
+      visibility: hidden;
+      width: 0;
+      height: 0; }
+    .row:after,
+    .clearfix:after {
+      clear: both; }
+    .row,
+    .clearfix {
+      zoom: 1; }
+
+    /* You can also use a <br class="clear" /> to clear columns */
+    .clear {
+      clear: both;
+      display: block;
+      overflow: hidden;
+      visibility: hidden;
+      width: 0;
+      height: 0;
+    }
+
+
+/* #superfish.css
+================================================== */
+
+/*** ESSENTIAL STYLES ***/
+.sf-menu, .sf-menu * {
+	margin:			0;
+	padding:		0;
+	list-style:		none;
+     
+}
+.sf-menu {
+	line-height:	1.0;
+}
+.sf-menu ul {
+	position:		absolute;
+	top:			-999em;
+	width:			17em; /* left offset of submenus need to match (see below) */
+	z-index: 99999 !important;
+    box-shadow: 20px 12px 20px rgba(0,0,0,0.2);
+}
+.sf-menu ul li ul, .sf-menu ul li ul li ul, .sf-menu ul li ul li ul li ul {z-index: 99999 !important;} 
+.sf-menu ul li {
+	width:			100%;
+}
+.sf-menu li:hover {
+	visibility:		inherit; /* fixes IE7 'sticky bug' */
+}
+.sf-menu li {
+	float:			left;
+	position:		relative;
+}
+.sf-menu a {
+	display:		block;
+	position:		relative;
+}
+.sf-menu li:hover ul,
+.sf-menu li.sfHover ul {
+	left:			0;
+	top:			110px; /* match top ul list item height */
+	z-index:		99;
+}
+ul.sf-menu li:hover li ul,
+ul.sf-menu li.sfHover li ul {
+	top:			-999em;
+}
+ul.sf-menu li li:hover ul,
+ul.sf-menu li li.sfHover ul {
+	left:			14em; /* match ul width */
+	top:			0;
+}
+ul.sf-menu li li:hover li ul,
+ul.sf-menu li li.sfHover li ul {
+	top:			-999em;
+}
+ul.sf-menu li li li:hover ul,
+ul.sf-menu li li li.sfHover ul {
+	left:			14em; /* match ul width */
+	top:			0;
+}
+
+/*** DEMO SKIN ***/
+.sf-menu {
+	
+	
+}
+.sf-menu a {
+	
+	
+	padding: 		.75em 1em;
+	text-decoration:none;
+}
+.sf-menu a, .sf-menu a:visited  { /* visited pseudo selector so IE6 applies text colour*/
+	
+}
+.sf-menu li {
+	background:		#fff;
+}
+.sf-menu li li {
+	background:		#fff;
+}
+.sf-menu li li li {
+	background:		#fff;
+}
+.sf-menu li:hover, 
+.sf-menu li.sfHover,
+.sf-menu a:focus, 
+.sf-menu a:hover, 
+.sf-menu a:active 
+{
+
+	outline:		0;
+   
+}
+
+
+/*** arrows **/
+.sf-menu a.sf-with-ul {
+	
+	min-width:		1px; /* trigger IE7 hasLayout so spans position accurately */
+}
+.sf-sub-indicator
+{
+	position:		absolute;
+	display:		block;
+	left:			43%;
+	top:			1.05em; /* IE6 only */
+	width:			11px;
+	height:			7px;
+	text-indent: 	-999em;
+	overflow:		hidden;
+	background:		url('../images/subArrow.png') no-repeat !important; /* 8-bit indexed alpha png. IE6 gets solid image only */
+}
+.active .sf-sub-indicator {
+    background-position:  0 -7px !important;
+}
+a > .sf-sub-indicator {  /* give all except IE6 the correct values */
+	top:			4.8em;
+	
+}
+/* apply hovers to modern browsers */
+
+a:hover > .sf-sub-indicator,
+
+li:hover > a > .sf-sub-indicator,
+li.sfHover > a > .sf-sub-indicator {
+	background-position:  0 -7px;
+}
+
+/* point right for anchors in subs */
+.sf-menu ul .sf-sub-indicator {background-position:  0 -14px !important; }
+.sf-menu ul a > .sf-sub-indicator { background-position:  0 0; }
+/* apply hovers to modern browsers */
+.sf-menu ul a:focus > .sf-sub-indicator,
+.sf-menu ul a:hover > .sf-sub-indicator,
+.sf-menu ul a:active > .sf-sub-indicator,
+.sf-menu ul li:hover > a > .sf-sub-indicator,
+.sf-menu ul li.sfHover > a > .sf-sub-indicator {
+	background-position:  0 -14px !important;
+}
+

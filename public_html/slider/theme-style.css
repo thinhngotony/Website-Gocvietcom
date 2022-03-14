@@ -1,0 +1,302 @@
+/*
+Header
+*/
+#site-logo h1 {color: #000;}
+ul.menu-list {
+    list-style: none;
+    float: right}
+ul.menu-list li {float: left}
+ul.menu-list li:last-child {clear: right}
+ul.menu-list li a {
+    font-size: 14px;
+    font-weight: bold;
+    color: #cdcdcd;
+    margin-left: 10px;
+    padding-left: 10px}
+ul.menu-list li a:hover {color: #999}
+#header .testimonials {
+    margin-top: 80px;
+    margin-bottom: 20px}
+.testimonials {
+    background: url(../images/blockquote.png) no-repeat top left transparent;
+    padding-left: 35px;
+    color: #FFF}
+.testimonials-text {margin-bottom: 20px}
+.product-name {
+    padding-left: 35px;
+    margin-top: 80px;
+    margin-bottom: 20px}
+.product-description {
+    padding-left: 35px;
+    padding-right: 50px}
+.black-seperator {
+    background: url(../images/block-shadow.png) no-repeat top center #252525;
+    height: 1px;
+    clear: both}
+/*
+	Feature
+*/
+.feature {
+    padding: 30px 0;
+    color: #cfcfcf;
+    text-shadow: 0 1px 1px #000;
+    line-height: 22px;
+    background: #202020;
+    border-bottom: 1px solid #FFF;
+    font-size: 14px}
+.featured-image {margin-bottom: 30px}
+.featured-image-slide { margin-bottom: 25px}
+ul.next-prev {
+    position: absolute;
+    right: 0;
+    top: 17px}
+ul.next-prev li {
+    float: left;
+    padding-left: 15px}
+ul.next-prev li a {
+    width: 19px;
+    height: 28px;
+    text-indent: -5000px;
+    display: block;
+    background: url(../images/next-prev.png) no-repeat}
+ul.next-prev li.prev a {background-position: -23px -28px}
+ul.next-prev li.next a {background-position: -23px 0}
+ul.next-prev li.prev a:hover {background-position: 0 -28px}
+ul.next-prev li.next a:hover {background-position: 0 0}
+.slider_body {}
+.slider-pager-container {
+    width: 100%;
+    text-align: center}
+.slider-pager {display: inline-block}
+.jcycle-pager {float: right}
+.jcycle-pager a {float: left}
+.hover-content ul.jcycle-pager, .content-slider ul.jcycle-pager {
+    list-style: none !important;
+    margin: 0px !important;
+    padding: 0px !important;
+    position:absolute;
+    bottom:15px;
+    left:15px;
+    z-index:999;}
+.hover-content ul.jcycle-pager li, .content-slider ul.jcycle-pager li {
+    padding-top: 3px;
+    border-bottom: none !important;
+    float: left;
+    margin: 0px;
+    margin-right: 4px;}
+.hover-content ul.jcycle-pager li a, .content-slider ul.jcycle-pager li a {
+    background: url(../images/slider-bg.png) no-repeat center center transparent;
+    display:block;
+    float:left;
+    height:8px;
+    margin-right:5px;
+    text-indent:-5000px;
+    width:8px;
+    cursor: pointer;
+    margin: 0px;}
+.hover-content ul.jcycle-pager li.activeSlide a, .content-slider ul.jcycle-pager li.activeSlide a {
+    background: url(../images/slider-bg-active.png) no-repeat center center transparent;
+    display:block;
+    float:left;
+    height:8px;
+    margin-right:5px;
+    text-indent:-5000px;
+    width:8px;
+    cursor: pointer;
+    margin: 0px;}
+/*
+	Content
+*/
+.content {padding: 0}
+.sidebar {width: 240px}
+.with-sidebar {width: 640px}
+.right {float: right}
+.left {float: left}
+h2.feature-title {margin-bottom: 30px}
+.sub-feature-image {
+    padding: 5px;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    border: 1px solid #b5b5b5;
+    background: url(../images/transparent-bg.png)}
+.sub-feature-image a {
+    height: 138px;
+    width: 138px;
+    position: relative;
+    display: block}
+.sub-feature-image a span.image-icon {
+    position: absolute;
+    left: -16px;
+    top: -16px}
+.sub-feature {margin-bottom: 30px}
+.sub-feature h6.sub-title {
+    text-transform: uppercase;
+    font-size: 9px}
+.sub-feature h2.feature-title {
+    font-size: 20px;
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #bcbcbc}
+/*
+	Bottom
+*/
+.bottom {
+    background: #000;
+    border-top: 1px solid #fff;
+    padding: 30px 0}
+.center-title {
+    text-align: center;
+    text-transform: uppercase}
+/*
+	Footer
+*/
+.footer {
+    background: #000000;
+    padding: 15px 0;
+    font-size: 11px}
+/*
+-------------------------------------------------------
+    05. Footer Navigation Menu
+-------------------------------------------------------
+*/
+.footer-bottom-menu ul {
+    list-style: none;
+    float: right}
+.footer-bottom-menu ul li {
+    float: left;
+    margin-left: 10px;
+    border-bottom: none !important;
+    padding-left: 11px;
+    background: url(../images/footer-menu-sperator.gif) no-repeat left center}
+.footer-bottom-menu ul li:first-child {
+    background: none}
+.footer-bottom-menu ul li ul {
+    display: none;}
+/*
+-------------------------------------------------------
+    05. Navigation Menu
+-------------------------------------------------------
+*/
+#navigation-container {text-align: right}
+#navigation {display: inline-block}
+#navigation-container.menu-left .grid_16 {text-align: left}
+/*Top menu*/
+.jqueryslidemenu ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    float: right;
+    z-index: 9998}
+.jqueryslidemenu ul li {
+    position: relative;
+    display: block;
+    float: left;
+    margin-left: 0;
+    z-index: 9999;
+    height: 34px\9;
+ }
+
+ .jqueryslidemenu ul.sub-menu{
+ 	top: 32px !important\9;
+ }
+.nav-sep {
+	float:left;
+	color:#000000;
+	padding:2px 0px;}
+.jqueryslidemenu ul li a {
+    display: block;
+    color: #000;
+	background-color: #ED303C;
+    text-transform: uppercase;
+    padding: 5px 0px;
+    padding-left: 10px;
+	padding-right: 10px;
+    text-align: left;
+    float:left;
+    position:relative;
+	border-radius: 3px;
+	}
+.jqueryslidemenu ul li a:hover {color:#666;}
+.jqueryslidemenu ul ul li:last-child a {
+    border-right: none;
+    padding-right: 20px}
+.jqueryslidemenu ul li:hover > a {
+/*    color: #FBFE00*/}
+* html .jqueryslidemenu ul li a {
+    display: inline-block;
+    color: #000}
+.jqueryslidemenu ul li a:selected {color: #FC0}
+.jqueryslidemenu ul li ul {
+    position: absolute;
+    display: block;
+    visibility: hidden;
+    z-index: 5001 !important;
+    margin-left: -1px}
+.jqueryslidemenu ul li ul li ul, .jqueryslidemenu ul li ul li ul li ul {background: none}
+.jqueryslidemenu ul li ul li {
+    display: list-item;
+    float: none}
+.jqueryslidemenu ul li ul li span.nav-sep, .jqueryslidemenu ul li:last-child span.nav-sep {display: none;}
+.jqueryslidemenu ul li ul li:first-child, .jqueryslidemenu ul li ul li:first-child ul li:first-child {
+    border-top: 0px solid #222}
+.jqueryslidemenu ul li ul li ul li:first-child {padding-top: 0}
+.jqueryslidemenu ul li ul li a {
+    width: 200px;
+    padding: 5px 20px;
+    margin: 0;
+    background: #000;
+    text-decoration: none;
+    border-bottom: 2px dotted #222;
+    font-size: 11px;
+    color: #FFF;
+    text-align: left;
+    text-transform: uppercase;}
+.jqueryslidemenu span.arrow {
+    height: 10px;
+    width: 10px;
+    display: block}
+span.menu-title {
+    font-size: 11px;
+    font-weight: bold;
+    text-transform: uppercase}
+span.menu-desc {
+    color: #fbfe00;
+    display: block;
+    font-size: 11px;
+    font-weight: normal;
+    text-transform: lowercase}
+.jqueryslidemenu ul li:hover a span.menu-desc {
+    color: #999}
+.jqueryslidemenu span.arrow {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    width: 10px;
+    height: 10px;
+    display: block}
+.jqueryslidemenu span.downarrowclass {
+    position: absolute;
+    top: 2px;
+    right: 5px}
+.jqueryslidemenu span.downarrowclass:after {
+    /*content: "▼";*/
+    font-size: 0px}
+.jqueryslidemenu span.rightarrowclass {
+    position: absolute;
+    right: 20px;
+    top: 9px}
+.jqueryslidemenu span.rightarrowclass:after {
+    content: "►";
+    font-size: 9px;
+    color: #f9f9f9}
+.jqueryslidemenu span.rightarrowclass:hover {color: #666}
+#page-wrap div.slider-text {
+    margin: 0px 0 0 1280px;
+    position: absolute;
+    width: 960px !important;}
+.jqueryslidemenu ul li ul li{
+	clear:both;
+	float:left;
+}
+

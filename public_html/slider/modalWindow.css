@@ -1,0 +1,191 @@
+/* Modal Window Styles */
+
+.modalWindow-container{display:none;}
+
+.modalWindow-error{font:bold 8pt Arial, Helvetica, sans-serif; color:#000;}
+.modalWindow-loader{font:bold 8pt Arial, Helvetica, sans-serif; color:#000;}
+
+.modalWindow-box {
+	display:none;
+	overflow: visible;
+	position:fixed;
+	width:auto;
+	height:auto;
+	display:none;
+	padding:0 !important;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	z-index:9999;
+	-moz-box-shadow:0px 0px 3px rgba(0,0,0,0.5), 0px 0px 1px #fff inset;
+	-webkit-box-shadow:0px 0px 3px rgba(0,0,0,0.5), 0px 0px 1px #fff inset;
+	box-shadow:0px 0px 3px rgba(0,0,0,0.5), 0px 0px 1px #fff inset;
+	background: #adadad;
+}
+
+.modalWindow-boxInner {
+	background: #eee;
+	-webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;
+	overflow: hidden;
+}
+h3.modalWindow-title {
+	padding: 8px;
+	margin: 0;
+	background: #ccc;
+	-moz-border-radius:8px 8px 0 0;
+	-webkit-border-radius:8px 8px 0 0;
+	border-radius:8px 8px 0 0;
+	font-size: 20px;
+	border-bottom: 1px solid #999;
+}
+
+.modalWindow-content { 
+	padding: 0; -webkit-border-radius:8px; -moz-border-radius:8px; border-radius:8px;
+	overflow: hidden !important;
+}
+
+.modalWindow-overlay {
+	display:none;
+	position:fixed;
+	top:0;
+	left:0;
+	bottom:0;
+	right:0;
+	z-index:8888;
+	background:#000;
+}
+
+.modalWindow-close { position: absolute; top: 0px; right: -25px; width: 24px; height: 24px; background: url(../images/btn-close.jpg); cursor: pointer }
+
+/*buttons*/
+/* button layout */
+.modal-button{
+    text-shadow: 1px 1px 1px #FFF;
+    border: 1px solid #CCC;
+    text-shadow: 1px 1px 1px #FFF;
+	font-weight: bold;
+	cursor: pointer;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    text-decoration: none;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	width: auto;
+	-webkit-transition: all 0.2s ease-in-out;
+	-moz-transition: all 0.2s ease-in-out;
+	-o-transition: all 0.2s ease-in-out;
+	-ms-transition: all 0.2s ease-in-out;
+	transition: all 0.2s ease-in-out;
+	color: #fff;
+}
+.modal-button span{
+	display: block;
+	border-top: 1px solid #FFF;
+	-webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+	padding: 0 5px;
+}
+.modal-button:hover {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)";
+    filter: alpha(opacity=70);
+    -moz-opacity:0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+	text-decoration: none!important;
+}
+
+.button-size-default {
+	font-size: 12px;
+	line-height: 2.5em;
+}
+.button-size-small{
+	font-size: 10px;
+	line-height: 2.5em;
+}
+
+.button-size-large{
+	font-size: 14px;
+	line-height: 2.5em;
+}
+
+.button-color-default{
+	background-color: #D8D8D8;
+	color: #666 !important;
+}
+.button-color-default:hover {
+	-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=80)" !important;
+    filter: alpha(opacity=60) !important;
+    -moz-opacity:0.6 !important;
+    -khtml-opacity: 0.6 !important;
+    opacity: 0.6 !important;
+}
+
+.button-color-blue span{
+	border-top: 1px solid #C9D6F8;
+}
+.button-color-blue {
+	background-image: none;
+	background-color: #5AA2EF;
+	color: #FFF !important;
+	border-color: #206ADB;
+	text-shadow: none;
+}
+
+.button-color-orange{
+	border-color: #DE650C;
+	text-shadow: none;
+	background-image: none;
+	background-color: #FA6C43;
+	color: #FFF !important;
+}
+
+.button-color-orange span{
+	border-top: 1px solid #FAB89C;
+}
+
+.button-color-red{
+	border-color: #AC1317;
+	text-shadow: none;
+	background-image: none;
+	background-color: #CD1418;
+	color: #FFF  !important;	
+}
+.button-color-red span{
+	border-top: 1px solid #F35F63;
+}
+
+.button-color-green{
+	border-color: #1B8523;
+	text-shadow: none;
+	background-image: none;
+	background-color: #1CA823;
+	color: #FFF !important;
+}
+.button-color-green span{
+	border-top: 1px solid #55DF74;
+}
+
+.button-color-purple{
+	border-color: #701ECA;
+	text-shadow: none;
+	background-image: none;
+	background-color: #AB70ED;
+	color: #FFF !important;
+}
+.button-color-purple span{
+	border-top: 1px solid #CA99F7;
+}
+
+.button-color-black{
+	border-color: #000;
+	text-shadow: none;
+	color: #FFF !important;
+	background-image: none;
+	background-color: #383838;
+}
+.button-color-black span{
+	border-top: 1px solid #666;
+}
