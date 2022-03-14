@@ -366,7 +366,7 @@ E-mail: <a href="mailto:phuong.phan@gocviet.com.vn">phuong.phan@gocviet.com.vn</
 
 <br>
 <strong>Tran Thi Bao Yen (Ms)</strong><br />
-Sales & Marketing Associate<br>
+Sales & Ops Manager<br>
 Tel: +84 (28) 3911 7394<br />
 Mobile: 0903 399 544 <br>
 E-mail: <a href="mailto:export.sales@gocviet.com.vnn">export.sales@gocviet.com.vn</a><br>
