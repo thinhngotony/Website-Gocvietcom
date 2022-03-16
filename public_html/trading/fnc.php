@@ -134,7 +134,7 @@ var wpUIOpts = {"wpUrl":"http:\/\/www.gocviet.com.vn","pluginUrl":"http:\/\/www.
 .dd_classes_widget .viewall a:hover,
 .difficultyLevel
 {
-    background: #1268B3 !important;
+    background: #4A7A26 !important;
 }
 
 .mainNav .current_page_item ul a:hover { background: #1268B3; color: #fff; }
@@ -198,11 +198,6 @@ header {  background:  ;}
 
     
 
-     .style1 {
-	font-size: 24px;
-	font-weight: bold;
-	color: #000066;
-}
      </style>
    
      
@@ -282,6 +277,7 @@ header {  background:  ;}
 </li>
 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Corporate Social Responsibility" href="http://www.gocviet.com.vn/csr/"><span class="title">CSR</span></a></li>
 <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="CONTACT US" href="http://www.gocviet.com.vn/contact-us/"><span class="title">CONTACT</span></a></li>
+
 </ul>                 
                  <div class="container mobileNav">
                 
@@ -319,12 +315,8 @@ header {  background:  ;}
             
             <div class="eight columns pageTitle">
                 
-                <h1><font size="+2"></font></h1>
+                <h1><font size="+2">Dried Fruits, Chips, Nuts</font></h1>
                 
-            </div>
-            
-            <div class="eight columns breadcrumb">
- <font size="+2"></font>                        
             </div>
             
         </div>
@@ -341,69 +333,17 @@ header {  background:  ;}
                       
                 <div class="pageContent">
                     
-                            <div>
-<div align="center"><p><img src="top.jpg" width="800"></p>
-</div>							
-							
-<p><span lang="EN-GB">Goc Viet are dedicated group of professionals who have many years of experience working in sales and marketing on behalf of a number of well-known companies and brands.
-</span></p>
+                <div>
 
-<p><span lang="EN-GB">Based in Ho Chi Minh City – Vietnam’s economic hub – our young, vibrant and proactive team is passionate and customer engagement.<u></u><u></u></span></p>
-<p><span lang="EN-GB">We offer customer value based on how our clients view their products or services, and we show them how to reach their consumers through value chain partners. We deeply understand what customers want and need, and we provide the solutions they crave.
-</span><span lang="EN-GB"><u></u><u></u></span></p>
-<p><span lang="EN-GB">As such, we have made it our goal to bring Vietnamese marketing into the 21st century. Our vision is best summed up as:  <strong>“Our commitments, your benefits”<u></u></strong></span></p>
-<p>&nbsp;</p>
-<p><span class="style1">ACHIEVEMENTS 2014-2018</span><br>
-</p>
-<p><span lang="EN-GB">In 2014-2015 Goc Viet are very proud be the sales and marketing  consultancy for Vi Hao, the fast-growing company producing the finest chilli sauce on Vietnamese shelves. We have been crafting Vi Hao Sales and Marketing campaigns that have had a major impact and caught the attention of customers nationally and internationally. 
-
-</span></p>
-
-<p><span lang="EN-GB">From September, 2015 Goc Viet Established in export business – we export high quality Vietnamese agricultural products with the desire to introduce to global consumers the quality products of Vietnam, after nearly 2 years of efforts, Goc Viet has been honoured to be the first Vietnam supplier to supply Sriracha chilli hot sauce and Sambal Oeleck Paste into the world's most prestigious supermarket chain Costco, Canada, the leading Dutch Food Distributor - Oriental Merchant, and other strategic partners in Australia, Denmark, Norway, Switzerland, Turkey, Japan, Korea and China.
-
-<u></u><u></u></span></p>
-<p><span lang="EN-GB">In August, 2017 Goc Viet has extended its business into Coffee Shop Chain. We start our  fist Coffee Shop - Good Day Cafe, a fast growing chain concept. Our vision is to promote Goc Viet 100% natural Arabica Cau Dat, Da Lat coffee to cafe drinker in Vietnam and a very selective menu with most dishes made with our Sriracha Chilli Hot Sauce - Food safety and Hygiene is our highest commitment. 
-
-</span><span lang="EN-GB"><u></u><u></u></span></p>
-
-<div align="center"><p><img src="core.jpg" width="800"></p>
-</div>	
-
-<p>&nbsp;</p>
-
-<p><span class="style1">OUR CUSTOMERS</span><br>
-</p>
-<p><span lang="EN-GB">Goc Viet has provided Sales and Marketing consultant Services to a number of High Brand Companies in Vietnam and International such as: 
-
-</span></p>
-
-<p><span lang="EN-GB">2014 – 2015 : Vi Hao Manufactory of Hot Chili Sauce
-</span></p>
-
-<p><span lang="EN-GB">2014 – 2015 : Banyan Tree Hospitality Group – A Singaporean Hospitality Group 
-
-</span></p>
-
-<p><span lang="EN-GB">2015 : Dai Phuoc Lotus – A VinaCapital’s  Township Real Estate Project – VinaCapital 
-
-</span></p>
-
-<p><span lang="EN-GB">2016 : TST Tourist – A one of Vietnam Leading Tour Operator
-
-</span></p>
-
-<p><span lang="EN-GB">2018 : AnLan Hospitality – A young but fast growing group of Hi-end Bar and Restaurants
-</span></p>
-
-<div align="center"><p><img src="../images/slide1-new.jpg" width="800"></p>
-</div>
-
-<span style="font-weight:normal">
-				
-                  </div>
-<div>
-
-</div>
+                <img src="http://www.gocviet.com.vn/trading/fnc/1.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/2.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/3.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/4.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/5.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/6.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/7.jpg" title="" border="0" width="700">
+                <img src="http://www.gocviet.com.vn/trading/fnc/8.jpg" title="" border="0" width="700">
+				  </div>
 
                 </div>
                 
@@ -416,11 +356,9 @@ header {  background:  ;}
             <ul class="sidebar one-third column clearfix">
                
                    <li class="widget"><div id="text-3" class="widget_text">
-                     <!--h3>News & Events <a href="../news/" title="Read All" style="color:#CCCCCC">[ Read All ]</a> </h3-->			
+                     <!--h3>News & Events <a href="../news/" title="Read All" style="color:#CCCCCC">[ Read All ]</a></h3-->			
 
                      <div class="textwidget">
-
-
 <!--font color=#999999>27 January 2016 - Bangkok: Memorandum of Agreement of trade corporation</font><br>
 
 <a href="http://www.gocviet.com.vn/news/index.php#agreement" target="_self"><img src="http://www.gocviet.com.vn/news/agreement.jpg" title="27 January 2016 - Bangkok: Memorandum of Agreement of trade corporation for trade marketing support both domestic and abroad between Thailand's  entrepreneur Eastern Rice and Vietnam's entrepreneurs -  TST Group and Goc Viet Trading Co. Ltd.  Toward ASIAN and the efficiency of the cooperation between Vietnam enterprises with enterprises in ASEAN countries. Goc Viet and TST Group together creating investment opportunities to jointly overcome all challenges to increase competitive strength." border="0" width="260"></a>
@@ -429,15 +367,16 @@ header {  background:  ;}
                   
 <iframe width="260" height="" src="https://www.youtube.com/embed/Z7njKux8aBw?feature=player_detailpage" frameborder="0" allowfullscreen></iframe>
 
+
 <br><br>
 
       <h3>PRESS RELEASE</h3>
 
 <br>
-<p class="news_title"><a href="http://www.gocviet.com.vn/news/index.php#cafelover" target="_self" class="postTitle">Café Lover ! Cà phê nguyên chất (SẠCH)</a></p-->
+                       <p class="news_title"><a href="http://www.gocviet.com.vn/news/index.php#cafelover" target="_self" class="postTitle">Café Lover ! Cà phê nguyên chất (SẠCH)</a></p-->
 
-
-                       <!--p class="news_title"><a href="http://www.gocviet.com.vn/news/index.php#legend" target="_self" class="postTitle">Vi Hao’s Sriracha hot chili sauce – a sure-fire legend</a></p>
+<!--hr>
+                       <p class="news_title"><a href="http://www.gocviet.com.vn/news/index.php#legend" target="_self" class="postTitle">Vi Hao’s Sriracha hot chili sauce – a sure-fire legend</a></p>
                        <p class="news_date">In baomoi.com</p>
 <hr>
                        <p class="news_title"><a href="http://www.gocviet.com.vn/news/index.php#140707" target="_self" class="postTitle">Vi Hao Hot Chili Sauce– A journey to delight gourmet custormers in Vietnam and abroad</a></p>
@@ -451,7 +390,6 @@ header {  background:  ;}
                        <p class="news_date">In tuoitre.vn</p-->
 
 
-				   
 </div>
 		</div></li>                
             </ul>
@@ -490,7 +428,12 @@ header {  background:  ;}
 <li id="menu-item-773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="/contact-us/">CONTACT US</a></li>
 </ul></div></div></li>
 
-       
+
+<li class="widget one-third column"><div id="dd_the_latest_news_widget-2" class="dd_the_latest_news_widget">
+
+               
+
+		</div></li>            
         </ul>
     
         

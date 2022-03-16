@@ -262,13 +262,14 @@ header {  background:  ;}
                     <ul id="menu-top-menu" class="nav sf-menu sf-js-enabled sf-shadow">
                       <li id="menu-item-706" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="http://www.gocviet.com.vn/gocviet/"><span class="title">GOC VIET</span></a>
 </li>
-                      <li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="#"><span class="title">PRODUCTS</span></a>
+                      <li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="#"><span class="title">RANK OF SAUCES</span></a>
 
 <ul class="sub-menu">
-	<li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
+    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
 	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
-	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
+	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
 	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">SHOP OUR PRODUCTS</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Fruits Nuts & Chips" href="http://www.gocviet.com.vn/trading/fnc.php">Fruits Nuts & Chips</a></li>
 </ul>
 
 </li>
