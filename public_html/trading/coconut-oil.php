@@ -338,24 +338,15 @@ header {  background:  ;}
                 <div class="pageContent">
                     
                             <div>
-
-				<p><div align="center"><img align="center" src="../images/coconut-oil-headline.jpg" width="200"></div></p>
-				<p><div align="center">
-				  <h2><span style="color:#4A7A26; font-size:22px">COCO GOC VIET IS PROUD TO INTRODUCE<br>
-			    COLD PRESSED EXTRA VIRGIN COCONUT OIL</span></h2></div></p>
-				<p><div align="center"><img align="center" src="../images/TropicalGoodness.jpg"></div></p>			
-				<p>The premium COLD PRESSED Extra Virgin Coconut Oil with <strong>its tropical goodness -  the alluring aroma and subtly sweet flavor.</strong> Rich  in Medium-Chain Triglycerides (MCTs): MCTs are a unique form of fatty acids  that are used by the body as a source of energy and have been shown to be  beneficial in helping to maintain a healthy weight, increase stamina and  promote healthy metabolism of nutrients. Our extra virgin coconut oil is the  pure choice to suit your natural lifestyle. It can be used as a dietary  supplement, for cooking, baking and as part of your natural beauty routine.<br>
-				  <br>
-                  <strong>NATURAL ENERGY – 62% MCT</strong> (Medium Chain  Tryglicerides) Our cold pressed Virgin Coconut Oil is a natural energy source  because it contains MCT’s (medium chain) “good fats” the body uses to produce  energy. As a Dietary Supplement our coconut oil is a good addition to physical  activity, exercise and weight loss programs.<br>
-                  <br>
-                  <strong>HEALTHY COOKING</strong> – Extra Virgin Coconut  Oil is natural, Non GMO, PURE and UNREFINED. Extra Virgin Coconut Oil with Zero  Trans or Hydrogenated Fats making it especially healthy for the Heart as well  as Great for cooking. It is capable of high heat cooking because of a smoke  point close to 300 degrees F. <br>
-                  <br>
-                  <strong>HEALTHY SKIN &amp; HAIR CARE</strong> –  Can be used as a luxurious body moisturizer. Especially helpful for dry, rough  elbows and heels. Also for your hair Makes a great all-natural, fast hair  growth, restorative hair mask, adding hydration, gloss and manageability. Use  as a Massaging Oil or Natural Sun Screen.<br>
-                  <br>
-                  <strong>BENEFITS OF COLD PRESSED EXTRA VIRGIN COCONUT  OIL </strong>
-				<p>Coconut oil comprises mostly saturated fat, along with  some unsaturated fat and trace amounts of vitamins E and K, as well as iron. It  also contains phenolic compounds, during cold pressing,  the oil from the coconut meat is mechanically pressed at temperatures not  exceeding 120 degrees Fahrenheit, to preserve these healthful benefits. This results in a high-quality oil. Pure cold-pressed coconut oil is also not refined, processed or  deodorized. </p>
-				  
-				  </div>
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-1.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-2.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-3.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-4.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-5.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-6.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-7.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/trading/coconut-oil/coconut-oil-8.jpg" title="" border="0" width="700">
+				            </div>
 
                 </div>
                 
@@ -427,10 +418,11 @@ header {  background:  ;}
 
 <li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a title="" href="#">PRODUCTS</a>
 <ul class="sub-menu">
-	<li id="menu-item-800" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-800"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
-	<li id="menu-item-801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-801"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
-	<li id="menu-item-802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-802"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">Sriracha & Sambal Oelek</a></li>
-	<li id="menu-item-803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-803"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">Shop our products</a></li>		
+    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
+	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
+	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
+	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">SHOP OUR PRODUCTS</a></li>
+	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Fruits Nuts & Chips" href="http://www.gocviet.com.vn/trading/fnc.php">Fruits Nuts & Chips</a></li>
 </ul>
 </li>
 <li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a title="SRIRACHA HOT CHILI SAUCE - GOC VIET the general distributor and sales representative" href="/sriracha/">SRIRACHA & SAMBAL OELEK</a>

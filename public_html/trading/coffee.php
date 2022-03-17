@@ -338,49 +338,21 @@ header {  background:  ;}
                 <div class="pageContent">
                     
                             <div>
-							
-	
-
-				<h2><span style="color:#833434; font-size:22px"><img src="../images/GV-Arabica-headline.jpg">
-</span></h2>
-				<h2><span style="color:#560F0B; font-size:22px">                WHAT IS GOURMET COFFEE?
-				  </span></h2>
-
-				<p><strong><span style="color:#560F0B;">With so  many types of coffee on the market today, buying a good one can end up being a  confusing experience for the average consumer.</span></strong><br>
-				  <br>
-Many other  factors affect the quality of coffee. It’s too much for the average consumer to  keep track of. However, we can all learn a few important coffee facts to make a  more tastier choice when we buy coffee. Here are some important factors which  affect coffee quality:<br> 
-There are  only two species of coffee, Arabica and Robusta. Arabica is the only gourmet  coffee, and Bourbon Arabica has been proven over time to possess the best  flavor and characteristics. Most people can't believe how delicious coffee like  this is when they finally taste it.
-<p><img src="../images/GV-Arabica-1.jpg"><br>
-				 Arabica - Roasted Coffee Beans </p>
-Coffee from  different regions is known to present different flavors. Dalat in Vietnam has  been blessed with high altitudes of up to 1,500m in a semi-tropical climate and  abundant rainfall that produces Arabica Coffee, which can be compared with the  world's finest and much-loved type of Bourbon Arabica Coffee.
-<br>
-<br>
-The  altitude and region where the coffee is grown has a big impact: the higher-grown  the coffee, the better. It's worth noting the fact that Arabica coffee, the  only species which encompasses gourmet coffees, will only grow at a higher  altitude. Coffee is classified by it's relative density - the denser the finer.  The higher-grown it is, the denser it is. Therefore, the higher-grown, the  finer!<br><br>
-<p><img src="../images/GV-Arabica-2.jpg"><br>Arabica Coffee Blend 
-</p>
-<p>
-The blend.  Usually, in the interest of greater profit, fine Arabica are blended with  lesser coffees. Some of these blends have more Robusta than Arabica, resulting  in a brew that upsets the stomach. Robusta is a vigorous plant that produces  best close to sea level but won't grow at the higher altitudes. The coffee it  produces is generally low in flavor and high in caffeine - Robusta naturally  contains more caffeine than Arabica coffee.<br>
-<br>
-So, if you  like quality coffee, avoid any blend with Robusta. The exception to this rule  is Espresso roasted blends, which often contain a percentage of Robusta because  it gives a sought-after &quot;cream&quot; to the Espresso brew - the frothy  white foam on the surface of the cup. However, as a general rule, you should  look for high-grown, gourmet Arabica coffee. Most people can't believe how  delicious coffee like this is when they finally taste it!<br>
-<br>
-This advice  will allow you to better enjoy fine coffee. But your best move if you love  coffee, is to sample Goc Viet's delicious high-grown gourmet Arabica Dalat  coffee in both types: Blend and Beans.</p>
-<p>&nbsp;</p><p>&nbsp;</p>
-<h2><img src="../images/GOODDAY-cafe-headline.jpg"><span style="color:#833434; font-size:22px"></span></h2>
-
-				<p>COFFEE CUP PAPER FILTER – A SIMPLE 3 IN 1 COFFEE UNMIXED CONCEPT</p>
-                            <p>Many of us rely on a cup of coffee to galvanize us into action in the mornings. Coffee brewed in different ways could have varying health effects. So how about using a paper filter?</p>
-				<p><img src="../images/GV-GOODDAY-PaperFilter.jpg"></p>
-                            <p>PAPER  FILTER</p>
-				<p>A  fine-paper filter is highly effective at absorbing fatty components, and  studies involving high consumption of filter coffee show no negative effects on  blood cholesterol.<br>
-                              Health  rating: **** (providing it is made with a paper filter)</p>
-                            <p>3  IN 1 COFFEE UNMIXED CONCEPT</p>
-                            <p>Different  from the traditional 3 in 1 instant coffee, a GOOD DAY coffee cup paper filter  includes 30g OF 100% ORIGINAL ARABICA &amp; ROBUSTA coffee, a non-dairy creamer  and refined cane sugar sealed in a single portion sachet to ensure freshness.  It's so simple and easy to make according to your own taste.</p>
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-01.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-02.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-03.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-04.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-05.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-06.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-07.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-08.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-09.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-10.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-11.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-12.jpg" title="" border="0" width="700"> 
+                            <img src="http://www.gocviet.com.vn/trading/coffee/coffee-13.jpg" title="" border="0" width="700"> 
                             </div>
-<div>
-
-</div>
-
-                </div>
+                            </div>
                 
                 
                 

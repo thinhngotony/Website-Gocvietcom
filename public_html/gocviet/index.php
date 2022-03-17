@@ -342,60 +342,15 @@ header {  background:  ;}
                 <div class="pageContent">
                     
                             <div>
-<div align="center"><p><img src="top.jpg" width="800"></p>
-</div>							
-							
-<p><span lang="EN-GB">Goc Viet are dedicated group of professionals who have many years of experience working in sales and marketing on behalf of a number of well-known companies and brands.
-</span></p>
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-1.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-2.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-3.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-4.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-5.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-6.jpg" title="" border="0" width="700">
+                            <img src="http://www.gocviet.com.vn/gocviet/profile/profile-7.jpg" title="" border="0" width="700">
+</div>
 
-<p><span lang="EN-GB">Based in Ho Chi Minh City – Vietnam’s economic hub – our young, vibrant and proactive team is passionate and customer engagement.<u></u><u></u></span></p>
-<p><span lang="EN-GB">We offer customer value based on how our clients view their products or services, and we show them how to reach their consumers through value chain partners. We deeply understand what customers want and need, and we provide the solutions they crave.
-</span><span lang="EN-GB"><u></u><u></u></span></p>
-<p><span lang="EN-GB">As such, we have made it our goal to bring Vietnamese marketing into the 21st century. Our vision is best summed up as:  <strong>“Our commitments, your benefits”<u></u></strong></span></p>
-<p>&nbsp;</p>
-<p><span class="style1">ACHIEVEMENTS 2014-2018</span><br>
-</p>
-<p><span lang="EN-GB">In 2014-2015 Goc Viet are very proud be the sales and marketing  consultancy for Vi Hao, the fast-growing company producing the finest chilli sauce on Vietnamese shelves. We have been crafting Vi Hao Sales and Marketing campaigns that have had a major impact and caught the attention of customers nationally and internationally. 
-
-</span></p>
-
-<p><span lang="EN-GB">From September, 2015 Goc Viet Established in export business – we export high quality Vietnamese agricultural products with the desire to introduce to global consumers the quality products of Vietnam, after nearly 2 years of efforts, Goc Viet has been honoured to be the first Vietnam supplier to supply Sriracha chilli hot sauce and Sambal Oeleck Paste into the world's most prestigious supermarket chain Costco, Canada, the leading Dutch Food Distributor - Oriental Merchant, and other strategic partners in Australia, Denmark, Norway, Switzerland, Turkey, Japan, Korea and China.
-
-<u></u><u></u></span></p>
-<p><span lang="EN-GB">In August, 2017 Goc Viet has extended its business into Coffee Shop Chain. We start our  fist Coffee Shop - Good Day Cafe, a fast growing chain concept. Our vision is to promote Goc Viet 100% natural Arabica Cau Dat, Da Lat coffee to cafe drinker in Vietnam and a very selective menu with most dishes made with our Sriracha Chilli Hot Sauce - Food safety and Hygiene is our highest commitment. 
-
-</span><span lang="EN-GB"><u></u><u></u></span></p>
-
-<div align="center"><p><img src="core.jpg" width="800"></p>
-</div>	
-
-<p>&nbsp;</p>
-
-<p><span class="style1">OUR CUSTOMERS</span><br>
-</p>
-<p><span lang="EN-GB">Goc Viet has provided Sales and Marketing consultant Services to a number of High Brand Companies in Vietnam and International such as: 
-
-</span></p>
-
-<p><span lang="EN-GB">2014 – 2015 : Vi Hao Manufactory of Hot Chili Sauce
-</span></p>
-
-<p><span lang="EN-GB">2014 – 2015 : Banyan Tree Hospitality Group – A Singaporean Hospitality Group 
-
-</span></p>
-
-<p><span lang="EN-GB">2015 : Dai Phuoc Lotus – A VinaCapital’s  Township Real Estate Project – VinaCapital 
-
-</span></p>
-
-<p><span lang="EN-GB">2016 : TST Tourist – A one of Vietnam Leading Tour Operator
-
-</span></p>
-
-<p><span lang="EN-GB">2018 : AnLan Hospitality – A young but fast growing group of Hi-end Bar and Restaurants
-</span></p>
-
-<div align="center"><p><img src="../images/slide1-new.jpg" width="800"></p>
 </div>
 
 <span style="font-weight:normal">
