@@ -263,15 +263,15 @@ header {  background:  ;}
                       <li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="#"><span class="title">RANK OF PRODUCTS</span></a>
 
 <ul class="sub-menu">
-    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
+    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Rank of Sauces" href="http://www.gocviet.com.vn/trading/import-export.php">Rank of Sauces</a></li>
 	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
 	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
-	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">SHOP OUR PRODUCTS</a></li>
+	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">Shop our products</a></li>
 	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Fruits Nuts & Chips" href="http://www.gocviet.com.vn/trading/fnc.php">Fruits Nuts & Chips</a></li>
 </ul>
 
 </li>
-<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="SRIRACHA & SAMBAL OELEK" href="http://www.gocviet.com.vn/sriracha/"><span class="title">SRIRACHA & SAMBAL OELEK</span></a>
+<li id="menu-item-1507" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/sriracha/"><span class="title">Sriracha & Sambal Oelek</span></a>
 </li>
 <li id="menu-item-114" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Corporate Social Responsibility" href="http://www.gocviet.com.vn/csr/"><span class="title">CSR</span></a></li>
 <li id="menu-item-113" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="CONTACT US" href="http://www.gocviet.com.vn/contact-us/"><span class="title">CONTACT</span></a></li>
@@ -313,7 +313,7 @@ header {  background:  ;}
             
             <div class="eight columns pageTitle">
                 
-                <h1><font size="+2">Sriracha & Sambal Oelek</font></h1>
+                <h1><font size="+2">Scriracha & Sambal oelek</font></h1>
                 
             </div>
             
@@ -424,14 +424,14 @@ header {  background:  ;}
 
 <li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a title="" href="#">TRADING</a>
 <ul class="sub-menu">
-    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
+    <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Rank of Sauces" href="http://www.gocviet.com.vn/trading/import-export.php">Rank of Sauces</a></li>
 	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
 	<li id="menu-item-715" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coffee - Vietnam Best Quality Coffee" href="http://www.gocviet.com.vn/trading/coffee.php">Goc Viet Coffee</a></li>
-	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">SHOP OUR PRODUCTS</a></li>
+	<li id="menu-item-716" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Viet Shop Online" href="http://www.vietshoponline.vn" target="_blank">Shop our products</a></li>
 	<li id="menu-item-717" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Fruits Nuts & Chips" href="http://www.gocviet.com.vn/trading/fnc.php">Fruits Nuts & Chips</a></li>
 </ul>
 </li>
-<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a title="SRIRACHA HOT CHILI SAUCE - GOC VIET the general distributor and sales representative" href="/sriracha/">SRIRACHA & SAMBAL OELEK</a>
+<li id="menu-item-783" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-783"><a title="SRIRACHA HOT CHILI SAUCE - GOC VIET the general distributor and sales representative" href="/sriracha/">Scriracha & Sambal oelek</a>
 </li>
 <li id="menu-item-774" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-774"><a href="/csr/">CSR</a></li>
 <li id="menu-item-773" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-773"><a href="/contact-us/">CONTACT US</a></li>

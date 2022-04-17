@@ -72,6 +72,42 @@ body {
             </li>
             <li style="background: url(http://www.gocviet.com.vn/images/slide8-new.jpg) top center no-repeat; width:100%; height:100%;">
             </li> 			
+            <li style="background: url(http://www.gocviet.com.vn/images/slide2-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide3-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide4-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>            
+            <li style="background: url(http://www.gocviet.com.vn/images/slide5-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide7-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide8-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li> 			
+            <li style="background: url(http://www.gocviet.com.vn/images/slide2-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide3-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide4-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>            
+            <li style="background: url(http://www.gocviet.com.vn/images/slide5-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide7-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide8-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li> 			
+            <li style="background: url(http://www.gocviet.com.vn/images/slide2-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide3-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide4-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>            
+            <li style="background: url(http://www.gocviet.com.vn/images/slide5-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide7-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li>
+            <li style="background: url(http://www.gocviet.com.vn/images/slide8-new.jpg) top center no-repeat; width:100%; height:100%;">
+            </li> 		
           </ul>
         </div>
       </div>
