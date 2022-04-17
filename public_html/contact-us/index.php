@@ -270,7 +270,7 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
                     <ul id="menu-top-menu" class="nav sf-menu sf-js-enabled sf-shadow">
                       <li id="menu-item-706" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="http://www.gocviet.com.vn/gocviet/"><span class="title">GOC VIET</span></a>
 </li>
-                      <li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="#"><span class="title">RANK OF SAUCES</span></a>
+                      <li id="menu-item-710" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="" href="#"><span class="title">RANK OF PRODUCTS</span></a>
 
 <ul class="sub-menu">
     <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Sriracha & Sambal Oelek" href="http://www.gocviet.com.vn/trading/import-export.php">SRIRACHA & SAMBAL OELEK</a></li>
