@@ -422,7 +422,7 @@ header {  background:  ;}
 				 <li id="menu-item-789" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-789"><a title="" href="http://www.gocviet.com.vn/gocviet/">GOC VIET</a>
 </li>
 
-<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a title="" href="#">TRADING</a>
+<li id="menu-item-797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-797"><a title="" href="#">PRODUCTS</a>
 <ul class="sub-menu">
     <li id="menu-item-713" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Rank of Sauces" href="http://www.gocviet.com.vn/trading/import-export.php">Rank of Sauces</a></li>
 	<li id="menu-item-714" class="menu-item menu-item-type-post_type menu-item-object-page"><a title="Goc Viet Coconut Oil - Extra Virgin Coconut Oil Products" href="http://www.gocviet.com.vn/trading/coconut-oil.php">Goc Viet Coconut Oil</a></li>
