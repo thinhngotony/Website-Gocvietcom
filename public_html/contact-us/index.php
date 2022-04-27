@@ -349,9 +349,8 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
 <h3>For general enquiries:</h3>
 <hr />
 <p><strong>Goc Viet Office</strong><br />
-9A Phan Ke Binh, Dakao Ward, District 1<br />
-Ho Chi Minh City, Vietnam.<br>
-<br> 
+Main Office: 9A Phan Ke Binh, Dakao Ward, District 1, Ho Chi Minh City, Vietnam<br/>
+Branch Office: 312 Truong Sa, Ward 7, District Phu Nhuan, Ho Chi Minh City, Vietnam<br/>
 Tel: +84 (28) 3911 7394<br />
   E-mail: <a href="mailto:info@gocviet.com.vn">info@gocviet.com.vn</a></p>
                             </div>
@@ -360,7 +359,7 @@ Tel: +84 (28) 3911 7394<br />
 <hr />
 <p>
 <strong>Phan My Phuong (Ms)</strong><br />
-General Director<br />
+General Director, Business Development<br />
 Mobile: +84 933 880 288<br>
 E-mail: <a href="mailto:phuong.phan@gocviet.com.vn">phuong.phan@gocviet.com.vn</a><br>
 
