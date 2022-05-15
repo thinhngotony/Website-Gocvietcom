@@ -339,7 +339,6 @@ return false;
                    <li><a href="/trading/coffee.php"><img src="images/slide2-new.jpg" alt="" /></a></li>
                    <li><a href="/trading/coffee.php"><img src="images/slide3-new.jpg" alt="" /></a></li>
                    <li><a href="/trading/coconut-oil.php"><img src="images/slide4-new.jpg" alt="" /></a></li>
-                   <li><a href="/trading/import-export.php"><img src="images/slide5-new.jpg" alt="" /></a></li>
 				   <li><a href="/sriracha/"><img src="images/slide7-new.jpg" alt="" /></a></li>
 				   <li><a href="/sriracha/"><img src="images/slide8-new.jpg" alt="" /></a></li>
 
