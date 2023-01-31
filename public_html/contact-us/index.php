@@ -355,22 +355,12 @@ Tel: +84 (28) 3911 7394<br />
   E-mail: <a href="mailto:info@gocviet.com.vn">info@gocviet.com.vn</a></p>
                             </div>
 <div>
-<h3>For sales &amp; marketing enquiries:</h3>
-<hr />
 <p>
 <strong>Phan My Phuong (Ms)</strong><br />
 General Director, Business Development<br />
 Mobile: +84 933 880 288<br>
 E-mail: <a href="mailto:phuong.phan@gocviet.com.vn">phuong.phan@gocviet.com.vn</a><br>
 
-
-<br>
-<strong>Tran Thi Bao Yen (Ms)</strong><br />
-Sales & Ops Manager<br>
-Tel: +84 (28) 3911 7394<br />
-Mobile: 0903 399 544 <br>
-E-mail: <a href="mailto:export.sales@gocviet.com.vnn">export.sales@gocviet.com.vn</a><br>
-<br>
 
 </p>
 </div>
