@@ -252,9 +252,7 @@
             background: url(http://www.gocviet.com.vn/GVtheme/pricingBg.png) #1268B3 top right no-repeat;
         }
 
-        header {
-
-        }
+        header {}
 
 
         footer {
@@ -280,18 +278,18 @@
 
 
 
-<script>
-    function popup(mylink, windowname) {
-        if (!window.focus) return true;
-        var href;
-        if (typeof(mylink) == 'string')
-            href = mylink;
-        else
-            href = mylink.href;
-        window.open(href, windowname, 'width=350,height=193,scrollbars=no');
-        return false;
-    }
-</script>
+    <script>
+        function popup(mylink, windowname) {
+            if (!window.focus) return true;
+            var href;
+            if (typeof(mylink) == 'string')
+                href = mylink;
+            else
+                href = mylink.href;
+            window.open(href, windowname, 'width=350,height=193,scrollbars=no');
+            return false;
+        }
+    </script>
 
 
 </head>
@@ -422,7 +420,7 @@
                 <li><a href="/trading/coffee.php"><img src="images/slide3-new.jpg" alt="" /></a></li>
                 <li><a href="/trading/coconut-oil.php"><img src="images/slide4-new.jpg" alt="" /></a></li>
                 <li><a href="/sriracha/"><img src="images/slide7-new.jpg" alt="" /></a></li>
-                <li><a href="/sriracha/"><img src="images/slide8-new.jpg" alt="" /></a></li>
+                <li><a href="/sriracha/"><img src="images/slide6-new.jpg" alt="" /></a></li>
 
                 <!--li><a href="http://www.vietshoponline.vn" target="_blank"><img src="images/slide6-new.jpg" alt="Viet Shop Online" /></a></li-->
             </ul>
@@ -442,8 +440,7 @@
     </div-->
 
     </div>
-
-
+    
 
     <footer>
 
@@ -451,6 +448,27 @@
             <li class="widget two-thirds column">
                 <div id="nav_menu-8" class="widget_nav_menu">
                     <h3>Goc Viet Co. </h3>
+                    <div class="pageContent">
+                    <div>
+                    <img src="http://www.gocviet.com.vn/trading/homepage/1.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/2.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/3.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/4.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/5.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/6.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/7.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/8.jpg" title="" border="0" width="700">8
+                    <img src="http://www.gocviet.com.vn/trading/homepage/9.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/10.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/11.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/12.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/13.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/14.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/15.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/16.jpg" title="" border="0" width="700">
+                    <img src="http://www.gocviet.com.vn/trading/homepage/17.jpg" title="" border="0" width="700">
+                    </div>
+                </div>
                     <div class="menu-footer-menu-container">
                         <ul id="menu-footer-menu" class="menu">
 
