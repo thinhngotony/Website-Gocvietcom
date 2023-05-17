@@ -448,7 +448,7 @@
             <li class="widget two-thirds column">
                 <div id="nav_menu-8" class="widget_nav_menu">
                     <h3>Goc Viet Co. </h3>
-                    <div class="pageContent">
+                    <!-- <div class="pageContent">
                     <div>
                     <img src="http://www.gocviet.com.vn/trading/homepage/1.jpg" title="" border="0" width="700">
                     <img src="http://www.gocviet.com.vn/trading/homepage/2.jpg" title="" border="0" width="700">
@@ -467,7 +467,7 @@
                     <img src="http://www.gocviet.com.vn/trading/homepage/15.jpg" title="" border="0" width="700">
                     <img src="http://www.gocviet.com.vn/trading/homepage/16.jpg" title="" border="0" width="700">
                     <img src="http://www.gocviet.com.vn/trading/homepage/17.jpg" title="" border="0" width="700">
-                    </div>
+                    </div> -->
                 </div>
                     <div class="menu-footer-menu-container">
                         <ul id="menu-footer-menu" class="menu">
