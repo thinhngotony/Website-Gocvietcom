@@ -246,7 +246,7 @@
         }
 
         header {
-            background: ;
+            /* background: ; */
         }
 
 
@@ -434,7 +434,7 @@
                         <img src="http://www.gocviet.com.vn/trading/homepage/5.jpg" title="" border="0" width="700">
                         <img src="http://www.gocviet.com.vn/trading/homepage/6.jpg" title="" border="0" width="700">
                         <img src="http://www.gocviet.com.vn/trading/homepage/7.jpg" title="" border="0" width="700">
-                        <img src="http://www.gocviet.com.vn/trading/homepage/8.jpg" title="" border="0" width="700">8
+                        <img src="http://www.gocviet.com.vn/trading/homepage/8.jpg" title="" border="0" width="700">
                         <img src="http://www.gocviet.com.vn/trading/homepage/9.jpg" title="" border="0" width="700">
                         <img src="http://www.gocviet.com.vn/trading/homepage/10.jpg" title="" border="0" width="700">
                         <img src="http://www.gocviet.com.vn/trading/homepage/11.jpg" title="" border="0" width="700">
