@@ -175,7 +175,7 @@ blockquote {
 }
 .special .title {  background: url(http://www.gocviet.com.vn/GVtheme/pricingBg.png) #1268B3 top right no-repeat;}
 
-header {  background:  ;}
+/* header {  background: } */
 
 
    footer {   background: url(http://www.gocviet.com.vn/GVtheme/footerBg.png) bottom right no-repeat #262729; }
@@ -349,8 +349,8 @@ var targetWin = window.open (pageURL, title, 'toolbar=no, location=no, directori
 <h3>For general enquiries:</h3>
 <hr />
 <p><strong>Goc Viet Office</strong><br />
-Main Office: 9A Phan Ke Binh, Dakao Ward, District 1, Ho Chi Minh City, Vietnam<br/>
-Branch Office: Vinhome Central Park, Unit 17.06. Tower Central 1, 208 Nguyen Huu Canh, Ward 22, District Binh Thanh, Ho Chi Minh City<br/>
+<!-- Main Office: 9A Phan Ke Binh, Dakao Ward, District 1, Ho Chi Minh City, Vietnam<br/> -->
+Main Office: GOC VIET TSI CO., LTDL17-11, 17th floor, Vincom Center Buildings,<br/> 72 Le Thanh Ton Street, Ben Nghe Ward, District 1, Ho Chi Minh City, Viet Nam<br/>
 Tel: +84 (28) 3911 7394<br />
   E-mail: <a href="mailto:info@gocviet.com.vn">info@gocviet.com.vn</a></p>
                             </div>
